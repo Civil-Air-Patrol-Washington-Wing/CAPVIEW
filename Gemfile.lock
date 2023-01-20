@@ -1,0 +1,108 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    coffee-script (2.4.1)
+      coffee-script-source
+      execjs
+    coffee-script-source (1.12.2)
+    concurrent-ruby (1.1.10)
+    daemons (1.4.1)
+    dashing (1.2.0)
+      coffee-script (>= 1.6.2)
+      rack
+      rufus-scheduler
+      sass
+      sinatra
+      sinatra-contrib
+      sprockets
+      thin
+      thor
+    et-orbi (1.2.7)
+      tzinfo
+    eventmachine (1.2.7)
+    execjs (2.8.1)
+    ffi (1.15.5)
+    fugit (1.7.2)
+      et-orbi (~> 1, >= 1.2.7)
+      raabro (~> 1.4)
+    htmlentities (4.3.4)
+    multi_json (1.15.0)
+    mustermann (2.0.2)
+      ruby2_keywords (~> 0.0.1)
+    net-http (0.3.0)
+      uri
+    nokogiri (1.13.9-x86_64-linux)
+      racc (~> 1.4)
+    raabro (1.4.0)
+    racc (1.6.0)
+    rack (2.2.4)
+    rack-protection (2.2.2)
+      rack
+    rb-fsevent (0.11.2)
+    rb-inotify (0.10.1)
+      ffi (~> 1.0)
+    rexml (3.2.5)
+    rss (0.2.9)
+      rexml
+    ruby2_keywords (0.0.5)
+    rufus-scheduler (3.8.2)
+      fugit (~> 1.1, >= 1.1.6)
+    sass (3.7.4)
+      sass-listen (~> 4.0.0)
+    sass-listen (4.0.0)
+      rb-fsevent (~> 0.9, >= 0.9.4)
+      rb-inotify (~> 0.9, >= 0.9.7)
+    sassc (2.4.0)
+      ffi (~> 1.9)
+    sinatra (2.2.2)
+      mustermann (~> 2.0)
+      rack (~> 2.2)
+      rack-protection (= 2.2.2)
+      tilt (~> 2.0)
+    sinatra-contrib (2.2.2)
+      multi_json
+      mustermann (~> 2.0)
+      rack-protection (= 2.2.2)
+      sinatra (= 2.2.2)
+      tilt (~> 2.0)
+    sinatra_cyclist (0.0.3)
+      sinatra
+    smashing (1.3.5)
+      coffee-script (~> 2.4)
+      execjs (~> 2.7)
+      rack (~> 2.2)
+      rufus-scheduler (~> 3.6)
+      sassc (~> 2.0)
+      sinatra (~> 2.0)
+      sinatra-contrib (~> 2.0)
+      sprockets (~> 4.0)
+      thin (~> 1.7)
+      thor (~> 1.0)
+    sprockets (4.1.1)
+      concurrent-ruby (~> 1.0)
+      rack (> 1, < 3)
+    thin (1.8.1)
+      daemons (~> 1.0, >= 1.0.9)
+      eventmachine (~> 1.0, >= 1.0.4)
+      rack (>= 1, < 3)
+    thor (1.2.1)
+    tilt (2.0.11)
+    tzinfo (2.0.5)
+      concurrent-ruby (~> 1.0)
+    uri (0.11.0)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  dashing
+  htmlentities
+  net-http
+  nokogiri (~> 1.13, >= 1.13.9)
+  rss
+  sinatra_cyclist
+  smashing
+  uri
+
+BUNDLED WITH
+   2.3.16

@@ -1,0 +1,841 @@
+---
+buzzwords: "data: {\"items\":[{\"label\":\"Paradigm shift\",\"value\":1},{\"label\":\"Synergy\",\"value\":1}],\"id\":\"buzzwords\",\"updatedAt\":1674194552579}\n\n"
+convergence: "data: {\"points\":[{\"x\":3,\"y\":15},{\"x\":4,\"y\":24},{\"x\":5,\"y\":22},{\"x\":6,\"y\":24},{\"x\":7,\"y\":31},{\"x\":8,\"y\":2},{\"x\":9,\"y\":16},{\"x\":10,\"y\":31},{\"x\":11,\"y\":27},{\"x\":12,\"y\":34}],\"id\":\"convergence\",\"updatedAt\":1674194552579}\n\n"
+valuation: "data: {\"current\":69,\"last\":12,\"id\":\"valuation\",\"updatedAt\":1674194552879}\n\n"
+karma: "data: {\"current\":48322,\"last\":9858,\"id\":\"karma\",\"updatedAt\":1674194552879}\n\n"
+synergy: "data: {\"value\":15,\"id\":\"synergy\",\"updatedAt\":1674194552879}\n\n"
+sss-gateway: "data: {\"result\":0,\"id\":\"sss-gateway\",\"updatedAt\":1667980690485}\n\n"
+sss-GATEWAY: "data: {\"result\":1,\"id\":\"sss-GATEWAY\",\"updatedAt\":1674194552890}\n\n"
+sss-NHQ: "data: {\"result\":1,\"id\":\"sss-NHQ\",\"updatedAt\":1673334351733}\n\n"
+sss-GOCAP: "data: {\"result\":1,\"id\":\"sss-GOCAP\",\"updatedAt\":1673334352695}\n\n"
+news: "data: {\"headlines\":[{\"title\":\"Ukraine war: Allies to meet as Kyiv requests
+  tank donations\",\"description\":\"Talks will focus on military aid, with pressure
+  on Germany to allow Ukraine its Leopard tanks.\"},{\"title\":\"Ireland leader Leo
+  Varadkar has 'regrets' over NI protocol\",\"description\":\"The Taoiseach says the
+  post-Brexit measure was imposed on unionists and nationalists without their consent.\"},{\"title\":\"Jacinda
+  Ardern: New Zealand PM says no regrets over decision to step down\",\"description\":\"New
+  Zealand's leader says she has a \\\"sense of relief\\\" as her party prepares to
+  anoint a successor.\"},{\"title\":\"Covid: Half a million people missed out on heart
+  drugs\",\"description\":\"Low prescribing in the early months of the pandemic may
+  lead to more heart attacks and strokes, study warns.\"},{\"title\":\"Dentists warn
+  of permanent damage from clear braces ordered online\",\"description\":\"One man
+  said his teeth were not strong enough to bite an apple after wearing aligners bought
+  remotely.\"},{\"title\":\"Light pollution: Huge fall in stars that can be seen with
+  naked eye\",\"description\":\"Our view of the stars has been reduced every year
+  over the last decade by artificial light pollution.\"},{\"title\":\"Energy bills
+  rise for 2.5 million homes on Economy 7\",\"description\":\"Customers on Economy
+  7 tariffs see bills rise 7.6% despite the government fixing prices until April.\"},{\"title\":\"US
+  rock legend David Crosby dies aged 81\",\"description\":\"Crosby, who co-founded
+  both the Byrds and Crosby, Stills and Nash, had been ill for some time.\"},{\"title\":\"Rishi
+  Sunak's failure to wear seat belt to be investigated\",\"description\":\"The prime
+  minister has apologised for removing his seat belt while filming a clip for social
+  media.\"},{\"title\":\"Ukraine war: Serbia uproar over Wagner mercenaries recruiting
+  for Russia\",\"description\":\"A Russian news video showing Serbians being trained
+  to fight in Ukraine prompts fury in Belgrade.\"},{\"title\":\"Netflix: Reed Hastings
+  steps down but subscribers jump\",\"description\":\"The streaming service is attracting
+  new customers as co-founder Reed Hastings hands over the reins.\"},{\"title\":\"Julian
+  Sands: British actor's car found in California search\",\"description\":\"Julian
+  Sands, 65, was last seen hiking in the San Gabriel mountains last week during bad
+  weather.\"},{\"title\":\"Why inflation is falling but prices are still rising\",\"description\":\"We
+  report this percentage every month but here are three things you may not know.\"},{\"title\":\"UK
+  inflation rate calculator: How much are prices rising for you?\",\"description\":\"Use
+  our calculator to find out how much the cost of living is going up in your household.\"},{\"title\":\"Can
+  I get a Cold Weather Payment and how much are they?\",\"description\":\"Cold Weather
+  Payments are available to some when there is a run of sub-zero temperatures.\"},{\"title\":\"Cost
+  of living: Five tips when asking for a pay rise\",\"description\":\"Recruiters,
+  a manager and a workplace psychologist give their advice on how to negotiate for
+  more money.\"},{\"title\":\"How to stay warm and cope with the cold weather\",\"description\":\"Much
+  of the UK is facing another cold snap amid rising fuel costs.\"},{\"title\":\"Dr
+  Ranj: Four ways to protect your mental health as debt rises\",\"description\":\"The
+  rising cost of living can be stressful but there are steps you can take to help.\"},{\"title\":\"What
+  is the energy price cap and what will happen to bills?\",\"description\":\"The energy
+  bill support package will continue after April, but will be less generous.\"},{\"title\":\"Can
+  batch cooking help cut your shopping bills?\",\"description\":\"Suzanne Mulholland's
+  time saving tips have gathered her a significant following on social media.\"},{\"title\":\"Energy
+  bills: What cost-of-living payments are available and how do you claim?\",\"description\":\"Low-income
+  households, pensioners and some disabled people can get extra help with energy bills.\"},{\"title\":\"Shower
+  at home vs at the gym: What’s cheaper?\",\"description\":\"We investigate if getting
+  a gym membership could actually save you money in the shower.\"},{\"title\":\"What
+  is the UK inflation rate and why is the cost of living rising?\",\"description\":\"The
+  rate at which prices are rising has fallen slightly, but inflation remains near
+  a 40-year high.\"},{\"title\":\"BBC Food's family £1 recipe meal plan\",\"description\":\"This
+  budget-friendly meal plan covers a week's worth of dinners for four adults, coming
+  in at under £28 in total.\"},{\"title\":\"The Papers: 'Inflation corner turned'
+  and levelling up anger\",\"description\":\"Friday's papers carry the Bank of England
+  chief's cost of living update and reaction to levelling up news.\"},{\"title\":\"Australian
+  Open 2023: 4am finishes in tennis a 'farce' says Andy Murray\",\"description\":\"Andy
+  Murray says finishing his second-round match at the Australian Open was a \\\"farce\\\",
+  should tennis now put an end to the crazy finishing times?\"},{\"title\":\"Shakira
+  and Miley: Writing a perfect break-up song\",\"description\":\"As Shakira sets the
+  internet on fire with her diss track, a look at making a song out of heartbreak.\"},{\"title\":\"Why
+  anti-abortion activists still march on Washington\",\"description\":\"The 1973 Roe
+  v Wade Supreme Court decision gave rise to one of the largest anti-abortion marches
+  in the world.\"},{\"title\":\"Quiz of the week: What got cut from Apple boss's pay
+  packet?\",\"description\":\"How closely have you been paying attention to what's
+  been going on over the past seven days?\"},{\"title\":\"The race to make diesel
+  engines run on hydrogen\",\"description\":\"Ordinary diesel trucks could be converted
+  to a hydrogen-diesel mix, according to researchers in Australia.\"},{\"title\":\"Shah
+  Rukh Khan's Pathaan: Bollywood's 'king of hearts' aims for epic comeback\",\"description\":\"Shah
+  Rukh Khan returns in a James Bond-like spy-thriller Pathaan after a four-year hiatus.\"},{\"title\":\"Should
+  China worry about its shrinking population?\",\"description\":\"Beijing can no longer
+  rely on its demographic dividend to fuel growth. That may not be a bad thing.\"},{\"title\":\"Three
+  women died at Priory psychiatric unit in two months\",\"description\":\"Two other
+  women died at the same hospital as blogger Beth Matthews weeks before her death,
+  the BBC finds.\"},{\"title\":\"Ukraine war: Ukraine admits pulling out of front
+  line town of Soledar\",\"description\":\"Andrew Harding goes under fire on the front
+  line in eastern Ukraine after recent Russian gains.\"},{\"title\":\"The Apprentice
+  2023 receptionist on why representation matters\",\"description\":\"Khadeejah Khan
+  talks about being the one who tells candidates when it's time to learn their fate.\"},{\"title\":\"Ros
+  Atkins on... Brexit and the clash over EU laws\",\"description\":\"The BBC’s Analysis
+  editor takes a look at the government’s plan to scrap thousands of EU-era laws.\"},{\"title\":\"My
+  night at the sauna inside an embassy\",\"description\":\"The Finnish embassy in
+  London allows diplomats to relax while they wrestle with international issues.\"},{\"title\":\"Newport
+  Ship: Medieval vessel is 'world's largest 3D puzzle'\",\"description\":\"Experts
+  believe the preserved 15th Century vessel is as historically significant as the
+  Mary Rose.\"},{\"title\":\"Teachers' strikes: When and why are teachers striking?\",\"description\":\"Teachers
+  in England and Wales are going on strike as Scottish schools face continued action.\"},{\"title\":\"Croatia,
+  the euro and a coffee controversy - but is it all just froth?\",\"description\":\"Croatia
+  switched to the euro on 1 January, but many feel businesses are taking advantage
+  by hiking their prices.\"},{\"title\":\"The barber using Call of Duty to speak to
+  his family in Iran\",\"description\":\"Communication tools like WhatsApp have been
+  restricted in the country amid an ongoing crisis.\"},{\"title\":\"NHS Tracker: How
+  are your local NHS services coping this winter?\",\"description\":\"Flu, staff shortages
+  and Covid backlogs are putting the NHS under severe strain, find out what's happening
+  in your area.\"},{\"title\":\"Will some teachers receive a 15.9% pay rise?\",\"description\":\"Fact-checking
+  claims by Education Secretary Gillian Keegan and teachers' union boss Mary Bousted.\"},{\"title\":\"Strikes
+  Update: How nurses' strikes on Wednesday will affect you\",\"description\":\"What
+  you need to know about the nurses' strike and other industrial action, by the BBC's
+  Zoe Conway.\"},{\"title\":\"Man City 4-2 Tottenham: Pep Guardiola presents lists
+  of demands for Blues to return to top\",\"description\":\"Manchester City's night
+  of mood swings ended with a remarkable outpouring from manager Pep Guardiola, writes
+  Phil McNulty.\"},{\"title\":\"Cristiano Ronaldo and Lionel Messi both score in exhibition\",\"description\":\"Cristiano
+  Ronaldo scores twice in his first game in Saudi Arabia and Lionel Messi is also
+  on the scoresheet as PSG edge a Riyadh All-Stars XI.\"},{\"title\":\"Anton Walkes:
+  Ex-Tottenham youth and Portsmouth defender dies aged 25 in accident\",\"description\":\"English
+  defender Anton Walkes, who played for MLS club Charlotte, dies aged 25.\"},{\"title\":\"NBA:
+  Watch best plays as Chicago Bulls beat Detroit Pistons in Paris\",\"description\":\"Watch
+  the best plays as the Chicago Bulls score a convincing 126-108 win against the Detroit
+  Pistons in the NBA Paris Game.\"},{\"title\":\"NBA: Chicago Bulls beat rivals Detroit
+  Pistons 126-108 in Paris\",\"description\":\"An all-star crowd at the Accor Arena
+  in Paris sees the Chicago Bulls beat the Detroit Pistons 126-108 on Thursday night.\"},{\"title\":\"Australian
+  Open 2023: Jessica Pegula through to fourth round in 65 minutes\",\"description\":\"Third
+  seed Jessica Pegula needs just 65 minutes to beat Marta Kostyuk and secure a place
+  in the Australian Open fourth round.\"}],\"id\":\"news\",\"updatedAt\":1674194548838}\n\n"
+bbc-tech: "data: {\"headlines\":[{\"title\":\"3D printed guns: Warnings over growing
+  threat of 3D firearms\",\"description\":\"Police say they are seizing 3D printed
+  weapons in greater numbers in the UK.\"},{\"title\":\"Elon Musk sells almost $4bn
+  of Tesla shares\",\"description\":\"It comes less than two weeks after the world's
+  richest man completed his $44bn takeover of Twitter.\"},{\"title\":\"FTX: Cryptocurrency
+  market rocked by near-collapse of exchange\",\"description\":\"FTX struck a bailout
+  deal with larger rival Binance as it faced a \\\"significant liquidity crunch\\\".\"},{\"title\":\"Stalking
+  fears over PimEyes facial search engine\",\"description\":\"Privacy campaign group
+  Big Brother Watch has asked the UK privacy watchdog to investigate PimEyes.\"},{\"title\":\"Stolen
+  $3bn Bitcoin mystery ends with popcorn tin discovery\",\"description\":\"James Zhong
+  pleads guilty to the 2012 hack as police find stash of 50,000 Bitcoin.\"},{\"title\":\"Foxconn:
+  iPhone maker bets on electric truck firm Lordstown Motors\",\"description\":\"The
+  Taiwanese technology giant says it will invest up to $170m in Ohio-based Lordstown
+  Motors.\"},{\"title\":\"Hushpuppi: Notorious Nigerian fraudster jailed for 11 years
+  in US\",\"description\":\"The FBI says ex-social media star Hushpuppi is one of
+  the world's most high-profile money launderers.\"},{\"title\":\"Facebook owner Meta
+  expected to announce major job losses\",\"description\":\"The company faces difficult
+  economic conditions and is investing heavily in its metaverse push.\"},{\"title\":\"Tesla
+  recalls 40,000 cars over power-steering fault\",\"description\":\"The recall affects
+  the 2017-21 Model S and Model X vehicles.\"},{\"title\":\"Instagram debuts new age-verification
+  tools in UK and EU\",\"description\":\"Users changing their date of birth to that
+  of an adult can upload a video of themselves to prove their age.\"},{\"title\":\"Ten
+  days of Twitter chaos\",\"description\":\"Elon Musk's first week-and-a-half at Twitter
+  has been a rollercoaster of big changes.\"},{\"title\":\"Twitter users jump to Mastodon
+  - but what is it?\",\"description\":\"The little-known social network's user base
+  has swelled after Elon Musk's takeover of Twitter.\"},{\"title\":\"Twitter will
+  ban unlabelled parody accounts, says Elon Musk\",\"description\":\"The site's new
+  owner says accounts failing to specify they are parodies will be permanently suspended.\"},{\"title\":\"Billions
+  being spent in metaverse land grab\",\"description\":\"Corporations, speculators
+  and individuals have spent nearly $2bn (£1.75bn) on virtual plots.\"},{\"title\":\"Twitter
+  UK staff get deadline over cuts consultation\",\"description\":\"Hundreds affected
+  by Twitter's worldwide job cuts have three days to elect a representative.\"},{\"title\":\"TikTok
+  says staff in China can access UK and EU user data\",\"description\":\"The Chinese-owned
+  platform said the policy is \\\"based on a demonstrated need to do their job\\\".\"},{\"title\":\"Apple
+  store Glasgow workers unionise in UK first\",\"description\":\"The UK's first Apple
+  retail workers union has been formed, following US action.\"},{\"title\":\"Tinder:
+  More pay for dating app despite cost-of-living crisis\",\"description\":\"The number
+  of paid subscriptions to the dating app rose sharply in July to September.\"},{\"title\":\"Manchester
+  Arena's weapon scanning tech questioned\",\"description\":\"Technology used in the
+  Manchester Arena to find weapons has limitations, according to a report.\"},{\"title\":\"Haaland
+  or Halland? Fans asked to spellcheck tweets\",\"description\":\"The director of
+  Visit Halland says the region's hashtag is now filled with photos of the footballer.\"},{\"title\":\"China
+  Covid: Area around world's biggest iPhone plant locked down\",\"description\":\"The
+  move may have an impact on production of the new iPhone 14, which is made at Foxconn's
+  factory.\"},{\"title\":\"Twitter to lose magic with blue tick fee, says ex exec\",\"description\":\"Twitter's
+  former global communications head tells BBC News he is worried about Elon Musk's
+  plans.\"},{\"title\":\"Is it goodbye - finally - to the fax machine?\",\"description\":\"Ofcom
+  is consulting on changes to telecoms rules that could see fax machines become obsolete.\"},{\"title\":\"Elon
+  Musk says $8 monthly fee for Twitter blue tick\",\"description\":\"Critics say the
+  change could make it harder for people to find reliable sources on the social media
+  site.\"},{\"title\":\"New EU law could open up messaging and app buying\",\"description\":\"The
+  Digital Markets Act designed to curb the market power of big-tech is starting to
+  come into force.\"},{\"title\":\"Elon Musk dissolves Twitter's board of directors\",\"description\":\"The
+  multi-billionaire has cemented his control over the company by becoming its chief
+  executive.\"},{\"title\":\"Instagram bug tells some users accounts are suspended\",\"description\":\"Some
+  have received a message saying their account has been stopped for 30 days.\"},{\"title\":\"UK
+  watchdog warns of emotion-analysis tech risks\",\"description\":\"Immature biometric
+  technologies are as unscientific as the magic sorting hat in Harry Potter., the
+  ICO warns.\"},{\"title\":\"Apple: Chinese workers flee Covid lockdown at iPhone
+  factory\",\"description\":\"Video shared online shows people jumping a fence to
+  escape the plant, owned by Foxconn, in Zhengzhou.\"},{\"title\":\"UK battery firm
+  Britishvolt near collapse as it seeks funding\",\"description\":\"Britishvolt could
+  run out of money after the government refused to advance £30m in funding.\"},{\"title\":\"Elon
+  Musk says Twitter blue tick to be revamped\",\"description\":\"Reports suggest the
+  firm could charge users almost $20 per month to be verified.\"},{\"title\":\"Liz
+  Truss phone hack claim prompts calls for investigation\",\"description\":\"The Mail
+  on Sunday claims the ex-prime minister's phone was hacked while she was foreign
+  secretary.\"},{\"title\":\"The crash dummy aimed at protecting women drivers\",\"description\":\"Researchers
+  in Sweden are close to completing an industry-first average female crash test dummy.\"},{\"title\":\"Who
+  is Elon Musk?\",\"description\":\"The boss of Tesla and SpaceX is the world's richest
+  person and a business celebrity with few rivals.\"},{\"title\":\"Elon Musk: How
+  the world's richest person bought Twitter\",\"description\":\"One of the most publicised
+  and frenetic deals in Silicon Valley history has reportedly been completed.\"},{\"title\":\"Amazon
+  warns of slower sales as economy weakens\",\"description\":\"The online retail giant
+  says \\\"various factors\\\" are \\\"weighing on people's wallets\\\".\"},{\"title\":\"Elon
+  Musk: No change to Twitter moderation policy yet\",\"description\":\"Top managers
+  leave the social media platform as the billionaire seals his takeover of the firm.\"},{\"title\":\"Will
+  Donald Trump go back on to Twitter?\",\"description\":\"Donald Trump shares a love
+  for Twitter with Elon Musk, its new owner, but times have changed.\"},{\"title\":\"What
+  next for Twitter under Elon Musk?\",\"description\":\"The BBC's technology editor
+  looks at the path ahead for the tech company and the billionaire.\"},{\"title\":\"Black
+  women missing from tech industry, says report\",\"description\":\"A report says
+  an additional 20,000 black women need to be recruited to match numbers in the wider
+  workforce.\"},{\"title\":\"Tory MP Julian Knight warns of face-offs with Musk's
+  Twitter\",\"description\":\"Commons committee chair Julian Knight says UK and EU
+  regulators will be monitoring developments.\"},{\"title\":\"Meta: Shares in Facebook
+  owner dive 20% as investors lose faith\",\"description\":\"Shares in Meta drop more
+  than 20% after the firm sees sharp falls in revenue and profit.\"},{\"title\":\"Lee
+  Jae-yong: Samsung appoints convicted heir to top job\",\"description\":\"Lee Jae-yong
+  was found guilty of bribery and embezzlement before being granted a presidential
+  pardon.\"},{\"title\":\"Google and Microsoft hit by slowing economy\",\"description\":\"The
+  tech giants say customers are cutting back amid growing signs of an economic downturn.\"},{\"title\":\"Elon
+  Musk claims he's buying Twitter to 'help humanity'\",\"description\":\"The billionaire,
+  who says he is not buying the firm to make money, faces court if he walks away.\"},{\"title\":\"WhatsApp
+  back online after worldwide outage\",\"description\":\"Users started to report problems
+  just before 08:00 BST but Meta says the issue is now fixed.\"},{\"title\":\"Competition
+  regulator needs teeth to curb big tech, MPs say\",\"description\":\"They urge publication
+  of a draft bill that could see firms fined 10% of turnover for market abuses.\"},{\"title\":\"US
+  charges alleged Chinese spies in telecoms probe case\",\"description\":\"China is
+  believed to have tried to obstruct an investigation, steal technology and intimidate
+  dissidents.\"},{\"title\":\"TikTok blamed by filmmaker for allowing abusive comments
+  on video\",\"description\":\"Emmeline Hartley feels its software drives sexist hate
+  towards her film, but TikTok says it bans misogyny.\"},{\"title\":\"Ed Sheeran:
+  Hacker who stole singer's unreleased music is jailed\",\"description\":\"Adrian
+  Kwiatkowski offered the songs in exchange for cryptocurrency on the dark web.\"},{\"title\":\"The
+  flying car that could turn into a biplane\",\"description\":\"An American start-up
+  reveals a novel design, but what is the future of flying cars?\"},{\"title\":\"Amazon
+  could pay UK shoppers £900m compensation\",\"description\":\"A group-action claim
+  alleges Amazon breached competition law and caused customers to pay higher prices.\"},{\"title\":\"TikTok
+  denies it could be used to track US citizens\",\"description\":\"In response to
+  a media report, the firm said it does not collect precise location data from US
+  users.\"},{\"title\":\"Ruja Ignatova: Leaked police notes may have alerted FBI-wanted
+  Cryptoqueen\",\"description\":\"Europol records suggest Ruja Ignatova knew about
+  efforts to arrest her before she fled.\"},{\"title\":\"Deepfaked: ‘They put my face
+  on a porn video’\",\"description\":\"Campaigner Kate Isaacs describes the horror
+  of seeing her face digitally edited into an adult film.\"},{\"title\":\"TikTok to
+  ban children from livestreaming\",\"description\":\"BBC News found hundreds of accounts
+  going live from Syrian camps, with children begging for donations.\"},{\"title\":\"Google
+  Lamda: A glimpse at the ultra-realistic chat tech\",\"description\":\"Earlier this
+  year, the company fired an engineer who claimed the Lamda AI language system had
+  feelings.\"},{\"title\":\"Amazon workers fail to reach strike threshold in historic
+  UK ballot\",\"description\":\"GMB says it was three votes short of reaching the
+  50% threshold needed for industrial action.\"},{\"title\":\"Netflix: Big hits reverse
+  subscriber losses\",\"description\":\"The company added over 2.4 million subscribers,
+  reversing losses earlier in the year.\"},{\"title\":\"Meta ordered to sell Giphy
+  by UK's competition watchdog CMA\",\"description\":\"The social media giant says
+  it is disappointed with the ruling but will accept it.\"},{\"title\":\"Amazon UK
+  makes cautious move into insurance sales\",\"description\":\"The store will initially
+  focus on home insurance and has just three insurers on board.\"},{\"title\":\"Kakao
+  outage: Co-chief executive quits South Korea internet giant\",\"description\":\"A
+  fire shut down Kakao services for more than eight hours on Saturday.\"},{\"title\":\"Kanye
+  West agrees to buy right-wing platform Parler\",\"description\":\"Ye \\\"will never
+  have to fear being removed from social media again\\\", Parler boss George Farmer
+  posts.\"},{\"title\":\"Musk says SpaceX will keep funding Ukraine Starlink internet\",\"description\":\"The
+  tycoon reverses his earlier decision to stop funding a vital internet service for
+  Ukraine.\"},{\"title\":\"How Ukraine is winning the social media war\",\"description\":\"Despite
+  civilian and military bloodshed, Ukraine's online information war keeps a sense
+  of humour.\"},{\"title\":\"Elon Musk under federal investigation over Twitter deal\",\"description\":\"The
+  court filing said the billionaire was under investigation but it did not explain
+  why.\"},{\"title\":\"Shein owner Zoetop fined $1.9m over data breach response\",\"description\":\"New
+  York Attorney General Letitia James accuses Zoetop of lying about the extent of
+  the 2018 attack.\"},{\"title\":\"Office time is not for video calls, says tech boss\",\"description\":\"The
+  boss of messaging platform Slack says people should come into work to do other things.\"},{\"title\":\"Netflix
+  ad-supported service to launch in November\",\"description\":\"The firm is rolling
+  out the less expensive offering to try to attract viewers.\"},{\"title\":\"E-waste:
+  Five billion phones to be thrown away in 2022\",\"description\":\"Billions of phones
+  will be hoarded in drawers and cupboards or thrown away rather than recycled, studies
+  suggest.\"},{\"title\":\"AI tools fail to reduce recruitment bias - study\",\"description\":\"Artificially
+  intelligent analysis of job applications or videos is \\\"pseudoscience\\\", researchers
+  say.\"},{\"title\":\"Fabrice Muamba: Snapchat CPR lessons will save lives\",\"description\":\"Snapchat
+  releases a \\\"lens\\\" that teaches people how to use chest compressions for cardiac
+  arrest.\"},{\"title\":\"Two Huawei 5G kit-removal deadlines put back\",\"description\":\"A
+  small number of companies argued the original targets risked network outages, the
+  government says.\"},{\"title\":\"Commonwealth Games makes mystery esports U-turn\",\"description\":\"Despite
+  a successful test event for competitive gaming, at the 2022 Games, organisers reject
+  it for 2026.\"},{\"title\":\"China-Taiwan: Can a tech billionaire create a civilian
+  fighting force?\",\"description\":\"Robert Tsao, 75, has pledged a billion Taiwan
+  dollars to train citizens to resist a Chinese invasion.\"},{\"title\":\"Xbox v PlayStation:
+  Giants clash over Call of Duty\",\"description\":\"Microsoft hits back at claims
+  its proposed purchase of Activision Blizzard could harm its rival Sony.\"},{\"title\":\"Lab-grown
+  brain cells play video game Pong\",\"description\":\"Australian and UK researchers
+  grow brain cells in a lab that have learned to play a 1970s video game.\"},{\"title\":\"TikTok
+  profits from livestreams of families begging\",\"description\":\"Children are among
+  those pleading for hours for digital gifts, as the company takes a cut of up to
+  70%.\"},{\"title\":\"Paperless trade plans put before Parliament\",\"description\":\"The
+  government says it could reduce document processing times from days to seconds.\"},{\"title\":\"Mark
+  Zuckerberg reveals new Quest Pro VR headset\",\"description\":\"Facebook-owner Meta
+  has revealed a new VR headset as part of its continued metaverse push.\"},{\"title\":\"Russia
+  confirms Meta's designation as extremist\",\"description\":\"Meta platforms Facebook
+  and Instagram have been banned since March for alleged Russophobia.\"},{\"title\":\"Chinese
+  technology poses major risk - GCHQ Chief\",\"description\":\"Sir Jeremy Fleming
+  says the country's leadership is aiming to manipulate technology to gain influence.\"},{\"title\":\"Court
+  win for man fired for not keeping webcam on\",\"description\":\"An American IT company
+  asked the employee to keep his webcam on while he worked.\"},{\"title\":\"Netflix
+  signs up to ratings body Barb\",\"description\":\"It means the streaming giant's
+  viewing figures will be measured by an external body for the first time.\"},{\"title\":\"A
+  third of children have adult social media accounts - Ofcom\",\"description\":\"Children
+  are at risk of viewing harmful content by lying about their age online, according
+  to Ofcom.\"},{\"title\":\"Uber and Lyft shares slump on US 'gig' economy plan\",\"description\":\"Tens
+  of millions of people work in the global gig economy across services like food delivery
+  and transport.\"},{\"title\":\"Celebration of women in science and tech ending\",\"description\":\"This
+  year's Ada Lovelace Day will be the last because of a lack of corporate funding.\"},{\"title\":\"Rollercoaster
+  rides trigger emergency calls from new iPhones\",\"description\":\"Users say the
+  rides triggered the phones' crash detection system, US media reports.\"},{\"title\":\"Asia
+  chipmaker shares slide after US curbs on China\",\"description\":\"On Friday, Washington
+  announced new rules to restrict sales of semiconductor technology to China.\"},{\"title\":\"Elon
+  Musk wades into China and Taiwan tensions\",\"description\":\"The billionaire wins
+  China's praise for comments but Taipei says freedom is \\\"not for sale\\\".\"},{\"title\":\"Tesla's
+  Optimus and the problem with humanoids\",\"description\":\"Unlike Elon Musk's latest
+  creation, the most useful robots, experts say, do not look human - so far.\"},{\"title\":\"Dancers'
+  moves help to power Glasgow music venue\",\"description\":\"Heat energy is being
+  captured from people dancing to help a Glasgow venue reduce its carbon emissions.\"},{\"title\":\"Can
+  artificial intelligence design your perfect perfume?\",\"description\":\"Anna Holligan
+  finds out whether artificial intelligence can create a unique fragrance just for
+  her.\"},{\"title\":\"'The nerd emoji is not who we are'\",\"description\":\"Lowri,
+  13, is campaigning for an option to add a pair of glasses on emojis.\"},{\"title\":\"Tesla
+  shows off humanoid robot prototype\",\"description\":\"CEO Elon Musk says he hopes
+  Optimus can be mass produced once refined.\"},{\"title\":\"Testing the new iPhone:
+  From battery to always-on screen\",\"description\":\"The BBC's Technology Editor,
+  Zoe Kleinman, has been testing out the latest Apple smartphone.\"},{\"title\":\"Ethereum
+  Merge: A cryptocurrency 'going green'\",\"description\":\"The second biggest cryptocurrency
+  is to switch to a new operating model that it says uses 99.9% less energy.\"}],\"id\":\"bbc-tech\",\"updatedAt\":1667984630856}\n\n"
+mashable: "data: {\"headlines\":[{\"title\":\"Wordle today: Here's the answer, hints
+  for November 9\",\"description\":\"There's a brand new Wordle, and some brand new
+  rules to go with it: The New York Times has made some big changes to the word list,
+  which will no longer be based on the original game's selection. Yo...\"},{\"title\":\"Pay
+  what you want for this stacked collection of photography assets\",\"description\":\"TL;DR:
+  Pay what you want for this bundle of photography assets.When you’re making a website,
+  do you fill it with photos from stock picture sites? Those can certainly be high-quality,
+  but the subscr...\"},{\"title\":\"A 2-year subscription to NordVPN is on sale for
+  under £100 this Black Friday\",\"description\":\"SAVE 55%: Black Friday is the best
+  period to secure deals on leading VPNs. A two-year subscription to NordVPN is on
+  sale for £83.43 and includes an extra three months for free — 68% off for Black
+  F...\"},{\"title\":\"It's official: Twitter creates a new tick so it can still charge
+  for blue ones\",\"description\":\"Well, this sure clears things up.Twitter has been
+  fielding widespread criticism for its plan to charge for the coveted \\\"blue tick\\\",
+  which in the days before Elon Musk's acquisition of the company u...\"},{\"title\":\"Crypto
+  exchange FTX was valued in the billions. Now Binance plans to acquire it in a fire
+  sale.\",\"description\":\"Sam Bankman-Fried, founder of the cryptocurrency exchange
+  FTX, has become known as crypto's bailout king. Whenever a crypto company would
+  fail, Bankman-Fried, who's also known as SBF, would swoop i...\"},{\"title\":\"The
+  'New York Times' is changing Wordle's rules\",\"description\":\"Buckle up, Wordle
+  players: The New York Times is making changes to the popular word-guessing game.
+  And it might make figuring out the five-letter word a little more challenging. The
+  paper announced...\"},{\"title\":\"Airbnb will finally show you the *actual* total
+  price in search\",\"description\":\"Airbnb will soon show you the actual total price
+  you'll have to pay when you search for a rental on the platform. Imagine that —
+  no more surprise high-priced cleaning fees snuck in at checkout.User...\"},{\"title\":\"Instagram's
+  new scheduling tool lets creators curate future feeds\",\"description\":\"Professional
+  accounts on Instagram can finally schedule their posts in the app, the company announced.The
+  newly released tool will allow users to schedule posts, Reels, and carousels up
+  to 75 days ...\"},{\"title\":\"YouTube Shorts gets a made-for-TV mode\",\"description\":\"Short-form
+  vertical video was made to fit your mobile device. But, that doesn't mean YouTube
+  doesn't want you watching YouTube Shorts on your TV set, too.The video platform
+  just launched a custom-c...\"},{\"title\":\"This family-size Gourmia air fryer is
+  62% off — plus more of the best Walmart deals of the day\",\"description\":\"Shop
+  the best Walmart deals of the day for Nov. 8:BEST KITCHEN DEAL: Gourmia Digital
+  Air Fryer (6-Quart) — $38 $99.99 (save $61.99)BEST FLOOR CARE DEAL: Shark Navigator
+  Lift-Away Upright Vacuum — $...\"},{\"title\":\"Super stylish and covetable houseware
+  brand Great Jones has Dutch ovens on sale for 50% off\",\"description\":\"SAVE UP
+  TO 50%: As of Nov. 8, Great Jones is offering up to 50% off their Dutch ovens, skillets,
+  and other cookware essentials.Quick links:Dutchess cast-iron Dutch oven – $110 $160
+  (save $50)Cast-i...\"},{\"title\":\"‘Black Panther: Wakanda Forever’ review: Chadwick
+  Boseman is remembered in poignant and action-packed sequel\",\"description\":\"Grief
+  has come to the MCU in a profound, unchangeable way with Black Panther: Wakanda
+  Forever. Sure, past movies have shown our heroes dying in noble moments of self-sacrifice
+  or being snapped into...\"},{\"title\":\"Save $15 on AirPods Pro (2nd generation)
+  right now\",\"description\":\"Save $15: As of Nov. 8, Amazon is offering a 6% price
+  drop on the second generation AirPods Pro. They are now selling for $234, down from
+  $249, which is their lowest price yet. We all know Apple ma...\"},{\"title\":\"The
+  JBL Flip 4 is at its lowest price ever at Walmart right now\",\"description\":\"Save
+  40%: The JBL Flip 4 portable Bluetooth speaker is on sale at Walmart right now for
+  $59, its lowest price ever.It's almost Black Friday, so you know what that means:
+  It's time to start scouring...\"},{\"title\":\"Election Day is serious stuff, but
+  the memes and jokes are good, too\",\"description\":\"Election Day in the U.S. is
+  an important day, for sure, but it's also a great day for memes and jokes. After
+  all, if the internet has proven anything, it's that it can make a meme out of any
+  situat...\"},{\"title\":\"Instagram's flashy fraudster sentenced to 11 years in
+  prison\",\"description\":\"How much money are you willing to spend on designer outfits,
+  luxury cars, A-list friends, and a social media feed curated with the trappings
+  of indelible, gaudy wealth? A few hundred thousand dolla...\"},{\"title\":\"You
+  can now get a free month of Paramount+ and watch all the sports your heart desires\",\"description\":\"Save
+  $9.99: For a limited time only, new subscribers can access 30 days of Paramount+
+  FREE using the promo code BRAVO.If we're being honest, the only good thing about
+  the fact that it's getting dar...\"},{\"title\":\"Where do I vote? How to see a
+  sample ballot and make your choice.\",\"description\":\"Well, it's here, Election
+  Day.The polls in the U.S. are now open for the midterm elections, which will see
+  people across the country voting for their House Representatives as well as local
+  governor...\"},{\"title\":\"Tropical Storm Nicole track threatens Florida with hurricane
+  landfall. See the path.\",\"description\":\"Tropical Storm Nicole strengthened Tuesday
+  and threatening to make landfall in Florida as a hurricane sometime Thursday, according
+  to the National Hurricane Center.Nicole’s path has increasingly na...\"},{\"title\":\"Today's
+  best deals include a Gourmia air fryer, Google Nest Mini, and LG UltraGear monitor\",\"description\":\"Check
+  out the best deals of the day for Nov. 8:BEST HOME DEAL: Gourmia Digital Air Fryer
+  (6-Quart) — $38 $99.99 (save $61.99)BEST MONITOR DEAL: LG 32-inch UltraGear QHD
+  (2560x1440)165Hz HDR 10 Moni...\"},{\"title\":\"Can an $8 Twitter subscription bail
+  out Elon Musk? Let's look at the numbers.\",\"description\":\"Elon Musk needs to
+  make money...and fast. And he's eyeing Twitter users' wallets to do it.Musk recently
+  paid $44 billion for Twitter, a company that has turned a profit only twice in the
+  past 10 ye...\"},{\"title\":\"This wellness marketplace lets you shop by mood\",\"description\":\"Wellness,
+  in 2022, has advanced from a buzzword to a full-blown industry. The concept has
+  paved the way to a global market worth more than $1.5 trillion USD (about £1.3 trillion).
+  Interest in welln...\"},{\"title\":\"'The Whale' trailer sees Brendan Fraser's screen
+  return in A24 drama\",\"description\":\"It was the talk of Toronto International
+  Film Festival, New York Film Festival, BFI London Film Festival, and Venice Film
+  Festival (beyond all the Don't Worry Darling drama). Now, The Whale is comi...\"},{\"title\":\"You
+  can now play trivia on Netflix\",\"description\":\"If you've already seen all the
+  movies and TV shows on Netflix (we sincerely doubt it), maybe you want to play a
+  game of trivia?On Tuesday, Netflix launched a new feature called the Triviaverse.
+  It'...\"},{\"title\":\"Finding a gift that kids actually like is tricky. This guide
+  will make it easier.\",\"description\":\"The \\\"It's an avocado! Thanks!\\\" kid
+  might make it look easy, but finding the perfect gift for a kid requires attention
+  to detail — and an ear for their reactions to various toy commercials.Kids can ...\"},{\"title\":\"How
+  to watch the Autumn Nations Series for free on Prime Video\",\"description\":\"TL;DR:
+  Watch the Autumn Nations Series exclusively on Prime Video. You can catch all the
+  action for free with a 30-day trial of Amazon Prime.The Autumn Nations Series is
+  here, with 21 matches playe...\"},{\"title\":\"The best VPN deals that are already
+  live before Black Friday\",\"description\":\"UPDATE: Nov. 8 , 2022, 5:00 a.m. GMT
+  This story has been updated.VPNs are valuable tools for protecting your data and
+  identity when you're online. How do they do this? These cybersecurity services ...\"},{\"title\":\"Weird
+  Al recreating his greatest hits on classroom instruments is a joy to behold\",\"description\":\"With
+  over 40 years' worth of parody songs under his belt, it's tricky to even name all
+  Weird Al Yankovich's songs, let along sing them.Appearing alongside Jimmy Fallon
+  and The Roots, though, Weird ...\"},{\"title\":\"Where to watch Jordan Peele's 'Nope'\",\"description\":\"What:
+  Nope Where to watch: PeacockPremiere date: Nov. 18, 2022 Remember that Gordy scene?
+  Well, if you've missed the many frightening creatures starring in Jordan Peele's
+  Nope, we have some great n...\"},{\"title\":\"Work almost anywhere with this 4G
+  unlocked iPad mini that's on sale for 65% off\",\"description\":\"TL;DR: As of Nov.
+  8, you can get the Refurbished 2015 Apple iPad Mini 4 for just $249.99 instead of
+  $729 — that's a 65% discount.Buying refurbished tech is a great way to get your
+  hands on a new de...\"},{\"title\":\"Turn a regular iPad into a precision drawing
+  tablet with this affordable stylus\",\"description\":\"TL;DR: As of Nov. 8, you
+  can get the Digi Pen for just $39.99 instead of $99.95 — that's a 59% discount.If
+  you personally know a digital artist, they may have already told you that a good
+  drawing t...\"},{\"title\":\"This sonic toothbrush is on sale for just $40\",\"description\":\"TL;DR:
+  As of Nov. 8, you can get the AquaSonic Black Series Toothbrush for just $39.99
+  instead of $189.99 — that's a 78% discount.Dental care can get expensive, but taking
+  care of your teeth every ...\"},{\"title\":\"Trying to beat rising power bills?
+  This electric blanket is on sale for $30.\",\"description\":\"TL;DR: As of Nov.
+  8, you can get the Luwior Electric Heated Blanket for just $29.99 instead of $39.99
+  — that's a 25% discount.Normally, colder weather calls for cranking up the temperature,
+  but if ...\"},{\"title\":\"What if someone is my BFF but I'm not theirs?\",\"description\":\"When
+  I was younger, I would wander around the pre-teen jewelry store Claire's imagining
+  myself decked out in its wares. I often came across dual necklaces, each with a
+  broken half of a heart with t...\"},{\"title\":\"Lunar eclipse November 8: How to
+  watch the last 'blood moon' of 2022\",\"description\":\"If you’re desperate to see
+  a total lunar eclipse, don’t miss the one on November 8. Otherwise you’ll have to
+  wait a long time — as in: So long there will have been two Avatar movie releases
+  and a p...\"},{\"title\":\"'Quordle' today: Here are the answers and hints for November
+  8\",\"description\":\"Quordles aren't \\\"hard\\\" and \\\"easy.\\\" They're all
+  just four words, and you guess them or you don't. But that doesn't explain why todays
+  takes so long!If Quordle is a little too challenging today, you'...\"},{\"title\":\"Chris
+  Evans is 2022's Sexiest Man Alive, and has something sexy to say\",\"description\":\"Breaking
+  news: People magazine thinks Chris Evans is sexy. That's it, that's the article.Late
+  Show host Stephen Colbert has announced People magazine's Sexiest Man Alive 2022,
+  revealing it to be no...\"},{\"title\":\"Elon Musk can't tweet his way out of this\",\"description\":\"If
+  you're one of the Twitter users who fled to Mastodon after Elon Musk bought the
+  service, we regret to inform that you missed one of the hellsite's finest hours. The
+  weekend left Musk looking inc...\"},{\"title\":\"A 1-month subscription to Xbox
+  Game Pass Ultimate is on sale for under £9\",\"description\":\"TL;DR: A one-month
+  subscription to Xbox Game Pass Ultimate is on sale for £8.88, saving you 33% on
+  list price.A lot of highly anticipated titles are coming to the Xbox soon. It’s
+  an exciting time f...\"},{\"title\":\"Wordle today: Here's the answer, hints for
+  November 8\",\"description\":\"Whether you're voting, popping popcorn over the Twitter
+  dumpster fire, or just psyched about a new Wordle, we hope this Tuesday is a great
+  one! If you get stuck on today's puzzle, we're here to hel...\"},{\"title\":\"Get
+  3 months for free with the best VPN for unblocking American Netflix\",\"description\":\"SAVE
+  49%: ExpressVPN can unlock extra libraries of content from sites like Netflix and
+  Prime Video. A one-year subscription to ExpressVPN is on sale for £90.89 and includes
+  an extra three months fo...\"},{\"title\":\"Ready to shop? These are the best Walmart
+  Black Friday deals you can buy right now.\",\"description\":\"\\n   UPDATE: Nov.
+  7, 2022, 7:00 p.m. EST This post has been updated to include the latest stock and
+  pricing info for Walmart's early Black Friday deals.\\n\\nHere are the best early
+  Black Friday deals a...\"},{\"title\":\"The Black Friday deals are already starting
+  and these ones are the best\",\"description\":\"We've rounded up all the best early
+  Black Friday deals as of Nov. 7 — here are our top picks:BEST TV DEAL: Amazon 65-inch
+  Omni 4K Fire TV — $599.99 $1,099.99 (save $500)BEST VACUUM DEAL: Dyson V8 O...\"},{\"title\":\"Black
+  Friday is already here at Best Buy: Save on Apple Watches, Breville smart toaster
+  ovens, and more\",\"description\":\"\\n   UPDATE: Nov. 7, 2022, 12:50 p.m. EST This
+  story has been updated with the latest and greatest early Black Friday deals at
+  Best Buy.\\n\\nBest Buy is once again scrapping the Black Friday playbook.T...\"},{\"title\":\"The
+  best early Black Friday kitchen deals include air fryers and KitchenAid mixers galore\",\"description\":\"\\n
+  \  UPDATE: Nov. 7, 2022, 12:55 p.m. EST This story has been updated to reflect the
+  latest pricing and availability from early Black Friday sales.\\n\\nDon't have time
+  to check out all the best Black F...\"},{\"title\":\"Best gifts under $50: 50+ ideas
+  for absolutely everyone\",\"description\":\"Gift-giving on a budget is an art. Think
+  about the \\\"Christmas Party\\\" episode of The Office where Michael insists on
+  doing a Yankee Swap with everyone's Secret Santa gifts: You don't want to pull a
+  ...\"},{\"title\":\"Shop the best deals of the day at Walmart, including an all-time
+  low Roomba and Acer Chromebook\",\"description\":\"Here are the best live Walmart
+  deals of the day for Nov. 7:BEST HOME DEAL: iRobot Roomba i1+ (1552) Wi-Fi Connected
+  Self-Emptying Robot Vacuum — $288 $529.99 (save $241.99)BEST TECH DEAL: Acer 317
+  ...\"},{\"title\":\"Score a smart Breville air fryer for $70 off\",\"description\":\"SAVE
+  $70: As of Nov. 7, the Breville Smart Air Fryer Toaster Oven is on sale for $279
+  at Amazon. That's a savings of 20%.If you need a kitchen appliance that can do more
+  than cook wings and fries, ...\"},{\"title\":\"Apple could be changing the way we
+  talk to Siri\",\"description\":\"It seems Apple is firmly team \\\"hay is for horses\\\"
+  because it's pulling the \\\"hey\\\" from Siri's wake-up command.According to Bloomberg's
+  Mark Gurman, Apple has been working on this improvement to its ...\"},{\"title\":\"Scientists
+  find 'planet-killer' asteroids lurking in an elusive place\",\"description\":\"Astronomers
+  are vigilantly scanning the skies for asteroids that veer into Earth's solar system
+  neighborhood. But, some are hidden.Most asteroids — leftover rubble from our solar
+  system's formation...\"},{\"title\":\"The best Black Friday laptop and tablet deals
+  in the UK\",\"description\":\"This content originally appeared on Mashable for a
+  US audience and has been adapted for the UK audience.BEST ACER LAPTOP DEALSStay
+  tuned for the best deals in Black Friday 2022BEST ASUS LAPTOP DEAL...\"},{\"title\":\"The
+  best Black Friday TV deals in the UK\",\"description\":\"This content originally
+  appeared on Mashable for a US audience and has been adapted for the UK audience.BEST
+  CELLO TV DEALSStay tuned for the best deals in Black Friday 2022BEST HISENSE TV
+  DEALSSta...\"},{\"title\":\"The best Black Friday gaming deals in the UK\",\"description\":\"This
+  content originally appeared on Mashable for a US audience and has been adapted for
+  the UK audience.BEST ACCESSORY DEALSStay tuned for the best deals in Black Friday
+  2022BEST BUNDLE DEALSStay t...\"},{\"title\":\"Today's top deals feature the Breville
+  Smart Oven Air Fryer, Acer Predator Helios 300 gaming laptop, and more\",\"description\":\"Shopping
+  for tech or home goods? Here are the best deals of the day for Nov. 7:BEST HOME
+  DEAL: Breville Smart Oven Air Fryer Toaster Oven — $279.95 $349.95 (save $70)BEST
+  TECH DEAL: Acer Predator H...\"},{\"title\":\"Best Buy has another PlayStation 5
+  restock at 12 p.m. ET — here's how to get one\",\"description\":\"Set an alarm:
+  Best Buy is restocking the PlayStation 5 at 12 p.m. ET today (Monday, Nov. 7).This
+  marks the second time the hard-to-get gaming console has reappeared during the retailer's
+  ongoing Bl...\"},{\"title\":\"All the best pet deals as of Nov. 7: Toys, pet tech,
+  apparel, and more\",\"description\":\"\\n   UPDATE: Nov. 7, 2022, 10:15 a.m. EST
+  This story has been updated to include new deals on pet tech, toys, and more.\\n\\nBEST
+  PET TECH DEAL: The Petcube Bites 2 Lite will keep an eye on and toss tre...\"},{\"title\":\"The
+  whodunnit fun returns in Rian Johnson's ‘Glass Onion: A Knives Out Mystery’ Trailer\",\"description\":\"Wait
+  no more! For those who have been anxiously waiting since the debut of Knives Out,
+  Rian Johnson's standalone sequel, Glass Onion: A Knives Out Mystery, has arrived!The
+  new Glass Onion trailer i...\"},{\"title\":\"'Sonic Frontiers' is not the 'Sonic'
+  game of your dreams\",\"description\":\"This one hurts.Nearly a quarter-century
+  after Sonic Adventure graced the Sega Dreamcast (and five years after the terrible
+  Sonic Forces), everyone’s favorite blue hedgehog is back to break our hear...\"},{\"title\":\"This
+  wearable device could train your nervous system to deal with stress better\",\"description\":\"TL;DR:
+  As of Nov. 7, you can get the Apollo wearable for $40 off with the code MASHABLE40.We
+  rarely have complete control over what is happening around us. This is part of being
+  human. For people l...\"},{\"title\":\"Man eats 40 chickens in 40 consecutive days,
+  goes viral\",\"description\":\"People go viral for all sorts of reasons nowadays.
+  Maybe they tweeted something funny, or made a sweary gaffe on live TV. Perhaps they
+  fooled a bunch of people.Or, you know, maybe they just ate 40 ...\"},{\"title\":\"Twitter
+  is asking some of the employees it fired to come back, report claims\",\"description\":\"Twitter,
+  under the fresh tenure of Elon Musk, fired roughly half of its workforce last week.
+  And now, the company is asking some of those employees to come back. This is according
+  to a new report b...\"},{\"title\":\"How BDSM helped me deal with sexual trauma\",\"description\":\"When
+  we’re asked what looking after our mental health looks like, most of us recite the
+  same answer by rote. Talking therapy, medication for those who need it, and then
+  that nebulous concept of \\\"se...\"},{\"title\":\"John Oliver's dive into election
+  subversion features an explosive Nick Offerman cameo\",\"description\":\"With the
+  Midterm elections now only a day away, various Republican candidates and voices
+  on the right have returned to their favourite subject: voter fraud. Specifically,
+  the heavily debunked false...\"},{\"title\":\"Meta is reportedly announcing mass
+  layoffs this week\",\"description\":\"Meta, Facebook's parent company, is planning
+  mass layoffs this week, according to The Wall Street Journal. The news outlet reported
+  Monday that this will impact thousands of Meta employees. As of S...\"},{\"title\":\"Get
+  91% off this salon-quality hair dryer\",\"description\":\"TL;DR: Snag the Fenne
+  Hair Dryer on sale for just $29.99 instead of its usual $350 as of Nov. 7. That's
+  a total savings of 91%.The quality of your blow dryer can determine how much of
+  the rest of y...\"},{\"title\":\"Twitter's blue tick was more than a status symbol\",\"description\":\"On
+  Tuesday, Twitter's new dastardly daddy Elon Musk vowed to do away with the platform's
+  verification process. He called it a \\\"lords & peasants system\\\" that he'd democratize
+  by making it available ...\"},{\"title\":\"Get a tech upgrade the green way with
+  74% off this refurbished MacBook Air\",\"description\":\"TL;DR: As of Nov. 7, you
+  can score a refurbished 2017 MacBook Air (8GB RAM, 128GB SSD) for just $413.99 instead
+  of the original $1,599 retail price — that's a savings of 74%.As of writing, there
+  ar...\"},{\"title\":\"Apple says shipments of iPhone 14 Pro and Pro Max might be
+  delayed\",\"description\":\"If you ordered or plan to order an iPhone 14 Pro or
+  an iPhone 14 Pro Max, it may take a little longer to get to you. On Sunday, Apple
+  said these two models might get delayed due to Covid-19 restric...\"},{\"title\":\"'Quordle'
+  today: Here are the answers and hints for November 7\",\"description\":\"The weekend
+  has ended once again, but Quordle doesn't care how much free time you have. It's
+  a tough one today, and it's taking players a while to solve.If Quordle is a little
+  too challenging today...\"},{\"title\":\"Wordle today: Here's the answer, hints
+  for November 7\",\"description\":\"New day, new week, new Wordle! If you get stuck,
+  we're here to help with handy hints, as we are every day.If you just want today's
+  word, you can jump straight to the end of this article for Novembe...\"},{\"title\":\"A
+  lifetime subscription to AdGuard is on sale for under £30\",\"description\":\"TL;DR:
+  A lifetime subscription to an AdGuard Personal Plan (two accounts) is on sale for
+  £26.67, saving you 74% on list price.The first advertisement appeared online in
+  1994. A lot has changed sinc...\"},{\"title\":\"Elon Musk's paid Twitter verification
+  is delayed, and unlabelled parody banned\",\"description\":\"Elon Musk's plan to
+  put Twitter's blue tick verification badges up for sale has reportedly been delayed,
+  slowing the microblogging platform's rapid plummet to hell by a fraction. However,
+  Musk is a...\"},{\"title\":\"How to move your Twitter followers to Substack\",\"description\":\"Given
+  Twitter's change of management, you may be considering flapping your tired little
+  wings over to another platform. There's no one-for-one copy of Twitter, but apps
+  like Mastodon have been tryi...\"},{\"title\":\"Did Ryan Reynolds just join Tumblr
+  to escape the Twitter dumpster fire?\",\"description\":\"Blake Lively's husband,
+  Ryan Reynolds, quietly joined Tumblr on Tuesday with a Deadpool gif set about reblogging
+  fanfiction. I first thought the move was an indication that celebs may be looking
+  el...\"},{\"title\":\"Former MoviePass executives indicted for fraud, \\\"attempted
+  scam\\\"\",\"description\":\"MoviePass may be relaunching, but former CEOs of the
+  movie subscription service are still embroiled in scandal.As reported by Variety,
+  the former CEO of MoviePass's parent company Helios & Matheson...\"},{\"title\":\"'SNL'
+  Weekend Update talks about Ye's latest Instagram suspension, Twitter, and more\",\"description\":\"In
+  this week's edition of the SNL's Weekend Update, hosts Colin Jost and Michael Che
+  kick off the show with Biden's plea warning that possible election denial by Republicans
+  will set the nation on ...\"},{\"title\":\"Need a break? 'SNL' commercial parody
+  suggests getting COVID\",\"description\":\"If you're feeling down or need a break
+  from your responsibilities, SNL suggests a rather unconventional cure: get COVID.
+  According to its latest commercial parody, COVID is a surefire way to get a ...\"},{\"title\":\"'SNL'
+  gives viewers the full New York Jets fan experience\",\"description\":\"Are fans
+  of the New York Jets really as unhinged as everyone says they are? Well, in this
+  Saturday Night Live sketch featuring host Amy Schumer, the answer is yes.While at
+  a tailgate for a Jets gam...\"},{\"title\":\"President Biden introduces new democratic
+  candidates Guy Fieri, Azealia Banks, and more in 'SNL' cold open\",\"description\":\"In
+  Saturday Night Live's most recent cold open, President Joe Biden (James Austin Johnson)
+  gave voice to what's on all our minds heading into this year's midterm elections:
+  \\\"Big yikes.\\\"Biden lament...\"},{\"title\":\"How to know if breathwork is right
+  for you\",\"description\":\"Breathwork seems like one of those self-help techniques
+  that you could easily learn on social media. After all, there are countless tutorials
+  on YouTube and TikTok, along with numerous testimonials...\"},{\"title\":\"Save
+  some space with this 4-in-1 wireless charging stand\",\"description\":\"TL;DR: As
+  of Nov. 6, you can get the Four-In-One Wireless Charger Stand for just $79.99 instead
+  of $119 — that's a 32% discount.If you want to save some space, consolidating a
+  few chargers is a gre...\"},{\"title\":\"This plant identification and care app
+  is the gift gardeners are rooting for\",\"description\":\"TL;DR: As of Nov. 6, you
+  can get the Lifetime Subscription to NatureID for just $14.99 instead of $59.99
+  — that's a 75% discount.As the holidays get closer, it might be time to start gift
+  shopping ...\"},{\"title\":\"Get Microsoft Office and 8 training courses for $80\",\"description\":\"TL;DR:
+  As of Nov. 6, you can get the Microsoft Office Professional 2021 for Windows and
+  the Premium Microsoft Office Training Bundle for just $79.99 instead of $1,949 —
+  that's a 95% discount.One of...\"},{\"title\":\"This heads-up display makes it easier
+  to navigate in your car\",\"description\":\"TL;DR: As of Nov. 6, you can get the
+  HUDWAY Glass Heads-Up Navigation Display for just $49.95 instead of $59.95 — that's
+  a 16% discount.Having smart navigation with you in the car can be incredibly...\"},{\"title\":\"This
+  refurbished iPad Air is on sale for just $106\",\"description\":\"TL;DR: As of Nov.
+  6, you can get the Refurbished iPad Air for just $105.99 instead of $499 — that's
+  a 78% discount.It might be nice to have a show or movie streaming to keep you company
+  while you’r...\"},{\"title\":\"The 5 best fantasy shows to watch if you liked 'House
+  of the Dragon' and 'The Lord of the Rings: The Rings of Power'\",\"description\":\"House
+  of the Dragon and The Lord of the Rings: The Rings of Power may have both wrapped
+  up their first seasons, but if you're a fantasy lover suffering from withdrawal,
+  have no fear! There are a to...\"},{\"title\":\"10 of the best reality shows on
+  Hulu for when you need an escape\",\"description\":\"Reality TV has come a long
+  way since MTV plopped a bunch of twentysomethings in an artsy loft, trained cameras
+  on them, and left them to their own devices for a few months way back in 1992. Now
+  our...\"},{\"title\":\"'Quordle' today: Here are the answers and hints for November
+  6\",\"description\":\"It's Sunday once again, and it's also tough Quordle day.If
+  Quordle is a little too challenging today, you've come to the right place for hints.
+  There aren't just hints here, but the whole Quordle s...\"},{\"title\":\"Become
+  a successful YouTuber with this discounted course bundle\",\"description\":\"TL;DR:
+  The 2023 All-One-One YouTube Masterclass Bundle is on sale for £42.50, saving you
+  97% on list price.Say what you want about the Minecraft-playing YouTube star, Dream,
+  but everyone can learn ...\"},{\"title\":\"Wordle today: Here's the answer, hints
+  for November 6\",\"description\":\"It's finally Sunday, and what better way to celebrate
+  the end of the week than with a fresh Wordle? If you get stuck, we're here to help
+  with handy hints, as we are every day.If you just want today...\"},{\"title\":\"When
+  the clocks change for Daylight Saving Time and why we do it at all\",\"description\":\"The
+  clocks on our smartphones do something bizarre twice a year: One day in the spring,
+  they jump ahead an hour, and our alarms go off an hour sooner. We wake up bleary-eyed
+  and confused until we r...\"},{\"title\":\"Twitter layoff lawsuit is aimed at preventing
+  a repeat of Tesla layoffs\",\"description\":\"Current and former Twitter employees
+  began a class action lawsuit on Thursday concerning the current wave of high-profile
+  layoffs at Twitter. The suit claims that the embattled social media company...\"},{\"title\":\"Starlink
+  may slow down users if they use too much data\",\"description\":\"Elon Musk’s satellite
+  internet company is about to start slowing some users down.According to Starlink’s
+  (the internet division of SpaceX) new fair use policy, folks who use Starlink for
+  home inter...\"},{\"title\":\"How to switch to Mastodon from Twitter\",\"description\":\"Twitter
+  is going through some turmoil at the moment...to say the least. Ever since the new
+  \\\"Chief Twit\\\" took over, many advertisers and popular users have fled from
+  the app, seeking greener pasture...\"},{\"title\":\"One of Apple's rivals thinks
+  we'll see a foldable iPad in 2024\",\"description\":\"One of Apple’s competitors
+  in the smart device space apparently thinks a foldable iPad is on the way.In a meeting
+  with suppliers in October, Samsung reportedly shared that it believes Apple will
+  jo...\"},{\"title\":\"The 11 best tweets from Twitter's worst week\",\"description\":\"It's
+  been a weird week for Twitter. Elon Musk, now officially at the helm of the social
+  platform, carried out mass layoffs that will forever change the site. Point blank:
+  Twitter will never be the ...\"},{\"title\":\"Twitter's death might be the end of
+  social media for me\",\"description\":\"I have a very dire feeling about what will
+  happen to my online existence if Twitter goes down the toilet under Elon Musk’s
+  ownership.For more than a decade, Twitter has been my go-to source for, we...\"},{\"title\":\"Life
+  below Martian surface is more plausible than ever, scientists find\",\"description\":\"Even
+  the toughest microbe couldn't survive for long on Mars' tortured desert ground.
+  Deadly radiation from the cosmos pummels the surface. The temperature averages minus
+  80 degrees Fahrenheit. In t...\"},{\"title\":\"Volcano's massive eruption broke
+  another impressive record\",\"description\":\"The story of an underwater volcano's
+  historic eruption keeps getting wilder.In January 2022, the Hunga Tonga-Hunga Ha‘apai
+  blast in the South Pacific sent pressure waves around the planet, astonish...\"},{\"title\":\"How
+  to watch England vs Argentina for free this weekend\",\"description\":\"TL;DR: Watch
+  the Autumn Nations Series exclusively on Prime Video. You can catch all the action
+  for free with a 30-day trial of Amazon Prime.The Autumn Nations Series kicked off
+  on Oct. 29, with 20...\"}],\"id\":\"mashable\",\"updatedAt\":1667984633102}\n\n"
+techcrunch: "data: {\"headlines\":[{\"title\":\"Beginner Guide to CJ Affiliate (Commission
+  Junction) in 2022\",\"description\":\"Image by vectorjuice on FreepikIn this CJ
+  Affiliate guide, I will share with you everything you need to get started on the
+  platform, I will give you an in-depth look at the network and how it works...\"},{\"title\":\"TOP
+  10 AI MARKETING TOOLS YOU SHOULD USE\",\"description\":\"   The marketing industry
+  is turning to artificial intelligence (AI) as a way to save time and execute smarter,
+  more personalized campaigns. 61% of marketers say AI software is the most important
+  a...\"},{\"title\":\"Most Frequently Asked Questions About Affiliate Marketing\",\"description\":\"There
+  are lots of questions floating around about how affiliate marketing works, what
+  to do and what not to do when it comes to setting up a business. With so much uncertainty
+  surrounding both pers...\"},{\"title\":\"What is Blockchain: Everything You Need
+  to Know (2022)\",\"description\":\"If you want to pay online, you need to register
+  an account and provide credit card information. If you don't have a credit card,
+  you can pay with bank transfer. With the rise of cryptocurrencies, t...\"},{\"title\":\"ProWritingAid
+  VS Grammarly: Which Grammar Checker is Better in (2022) ?\",\"description\":\"ProWritingAid
+  VS Grammarly:  When it comes to English grammar, there are two Big Players that
+  everyone knows of: the Grammarly and ProWritingAid. but you are wondering which
+  one to choose so here w...\"},{\"title\":\"Sellfy Review 2022: How Good Is This
+  Ecommerce Platform?\",\"description\":\" Are you searching for an ecomerce platform
+  to help you build an online store and sell products?In this Sellfy review, we'll
+  talk about how this eCommerce platform can let you sell digital products...\"},{\"title\":\"Ahrefs
+  vs SEMrush: Which SEO Tool Should You Use?\",\"description\":\" SEMrush and Ahrefs
+  are among the most popular tools in the SEO industry. Both companies have been in
+  business for years and have thousands of customers per month. If you're a professional
+  SEO or t...\"},{\"title\":\"Top 10 Best PLR(Private Label Rights)  Websites | Which
+  One You Should Join in 2022?\",\"description\":\"Content creation is one of the
+  biggest struggles for many marketers and business owners. It often requires both
+  time and financial resources, especially if you plan to hire a writer.Today, we
+  have ...\"},{\"title\":\"Canva Review 2022: Details, Pricing & Features\",\"description\":\"Are
+  you looking for a new graphic design tool? Would you like to read a detailed review
+  of Canva? As it's one of the tools I love using. I am also writing my first ebook
+  using canva and publish it ...\"},{\"title\":\"Top 7 Best Wordpress Plugin Of All
+  Time\",\"description\":\" If you are looking for the best wordpress plugins, then
+  you are at the right place. Here is the list of best wordpress plugins that you
+  should use in your blog to boost SEO, strong your security a...\"},{\"title\":\"Ginger
+  VS Grammarly: Which Grammar Checker is Better in (2022) ?\",\"description\":\"Ginger
+  VS Grammarly: When it comes to grammar checkers, Ginger and Grammarly are two of
+  the most popular choices on the market. This article aims to highlight the specifics
+  of each one so that you ...\"},{\"title\":\"Most Frequently Asked Questions About
+  NFTs(Non-Fungible Tokens)\",\"description\":\" Non-fungible tokens (NFTs) are the
+  most popular digital assets today, capturing the attention of cryptocurrency investors,
+  whales and people from around the world. People find it amazing that some...\"},{\"title\":\"10
+  Best Chrome Extensions That Are Perfect for Everyone\",\"description\":\"Are you
+  a great Chrome user? That’s nice to hear. But first, consider whether or not there
+  are any essential Chrome extensions you are currently missing from your browsing
+  life, so here we're going...\"},{\"title\":\"Most Frequently Asked Questions About
+  \ Email Marketing\",\"description\":\"1. Why is email marketing important?Email
+  is the marketing tool that helps you  create a seamless, connected, frictionless
+  buyer journey. More importantly, email marketing allows you to build relat...\"},{\"title\":\"7
+  Free Websites Every Content Creator Needs to Know\",\"description\":\"Do you have
+  the desire to become a content creator, but not have the money to start? Here are
+  7 free websites every content creator needs to know.1.Exploding Topics (Trending
+  Topics)(Photo Credit:-...\"},{\"title\":\"Top 9 Free AI Tools That Make Your Life
+  Easier\",\"description\":\"Copy.aiPhoto:- Copy.aiFirst one on the list is copy.ai.
+  It is an AI based copy writer tool. Basically  what a copywriter tool does is, it
+  gives you content that you can post on your blog or video  ...\"}],\"id\":\"techcrunch\",\"updatedAt\":1667984633828}\n\n"
+opm: "data: {\"headlines\":[{\"title\":\"Open - 2 hours Delayed Arrival - With Option
+  for Unscheduled Leave or Unscheduled Telework - Operating Status of the Washington,
+  DC area Federal Government\",\"description\":\"Federal offices in the Washington,
+  DC area are OPEN under 2 hours DELAYED ARRIVAL and employees have the OPTION FOR
+  UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. Employees should plan to arrive for wo...\"},{\"title\":\"Office
+  Closure - Operating Status of the Washington, DC area Federal Government\",\"description\":\"FEDERAL
+  OFFICES in the Washington, DC area are CLOSED. Emergency employees and telework
+  employees continue to work. more\"},{\"title\":\"Open - 3 hours Delayed Arrival
+  - With Option for Unscheduled Leave or Unscheduled Telework - Operating Status of
+  the Washington, DC area Federal Government\",\"description\":\"Federal offices in
+  the Washington, DC area are OPEN under 3 hours DELAYED ARRIVAL and employees have
+  the OPTION FOR UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. Employees should plan
+  to arrive for wo...\"},{\"title\":\"Open - 3 hours Delayed Arrival - With Option
+  for Unscheduled Leave or Unscheduled Telework - Operating Status of the Washington,
+  DC area Federal Government\",\"description\":\"Federal offices in the Washington,
+  DC area are OPEN under 3 hours DELAYED ARRIVAL and employees have the OPTION FOR
+  UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. Employees should plan to arrive for wo...\"},{\"title\":\"Office
+  Closure - Operating Status of the Washington, DC area Federal Government\",\"description\":\"FEDERAL
+  OFFICES in the Washington, DC area are CLOSED. Emergency employees and telework
+  employees continue to work. more\"},{\"title\":\"Open - 2 hours Delayed Arrival
+  - With Option for Unscheduled Leave or Unscheduled Telework - Operating Status of
+  the Washington, DC area Federal Government\",\"description\":\"Federal offices in
+  the Washington, DC area are OPEN under 2 hours DELAYED ARRIVAL and employees have
+  the OPTION FOR UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. Employees should plan
+  to arrive for wo...\"},{\"title\":\"Office Closure - Operating Status of the Washington,
+  DC area Federal Government\",\"description\":\"FEDERAL OFFICES in the Washington,
+  DC area are CLOSED. Emergency employees and telework employees continue to work.
+  more\"},{\"title\":\"Open with Option for Unscheduled Leave or Unscheduled Telework
+  - Operating Status of the Washington, DC area Federal Government\",\"description\":\"Federal
+  offices in the Washington, DC area are OPEN and employees have the OPTION for UNSCHEDULED
+  LEAVE OR UNSCHEDULED TELEWORK. more\"},{\"title\":\"Open - 2 hours Delayed Arrival
+  - With Option for Unscheduled Leave or Unscheduled Telework - Operating Status of
+  the Washington, DC area Federal Government\",\"description\":\"Federal offices in
+  the Washington, DC area are OPEN under 2 hours DELAYED ARRIVAL and employees have
+  the OPTION FOR UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. Employees should plan
+  to arrive for wo...\"},{\"title\":\"Open with Option for Unscheduled Leave or Unscheduled
+  Telework - Operating Status of the Washington, DC area Federal Government\",\"description\":\"Federal
+  offices in the Washington, DC area are OPEN and employees have the OPTION for UNSCHEDULED
+  LEAVE OR UNSCHEDULED TELEWORK. more\"},{\"title\":\"Open with Option for Unscheduled
+  Leave or Unscheduled Telework - Operating Status of the Washington, DC area Federal
+  Government\",\"description\":\"Federal offices in the Washington, DC area are OPEN
+  and employees have the OPTION for UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. more\"},{\"title\":\"Open
+  - Operating Status of the Washington, DC area Federal Government\",\"description\":\"Federal
+  offices in the Washington, DC area are OPEN. more\"},{\"title\":\"Open - Delayed
+  Arrival - Employees Must Report to Their Office No Later Than 10:00 am - with Option
+  for Unscheduled Leave or Unscheduled Telework. - Operating Status of the Washington,
+  DC area Federal Government\",\"description\":\"Federal offices in the Washington,
+  DC area are OPEN under a DELAYED ARRIVAL where employees must REPORT TO THEIR OFFICE
+  NO LATER THAN 10:00 am and have the OPTION FOR UNSCHEDULED LEAVE OR UNSCHEDUL...\"},{\"title\":\"Open
+  with Option for Unscheduled Leave or Unscheduled Telework - Operating Status of
+  the Washington, DC area Federal Government\",\"description\":\"Federal offices in
+  the Washington, DC area are OPEN and employees have the OPTION for UNSCHEDULED LEAVE
+  OR UNSCHEDULED TELEWORK. more\"},{\"title\":\"Open, the Federal Government will
+  begin a phased transition to normal operations in line with the national guidelines
+  to Open Up America Again. Agencies will make operating decisions based on State
+  or locality of duty stations and other factors.  Employees should contact their
+  supervisor with any questions regarding Agency- or office-specific operating status.
+  - Operating Status of the Washington, DC area Federal Government\",\"description\":\"
+  more\"},{\"title\":\"Open with maximum Telework flexibilities to all current Telework
+  eligible employees, pursuant to direction from Agency Heads - Operating Status of
+  the Washington, DC area Federal Government\",\"description\":\" more\"},{\"title\":\"Open
+  with maximum Telework flexibilities to all current Telework eligible employees,
+  pursuant to direction from Agency Heads - Operating Status of the Washington, DC
+  area Federal Government\",\"description\":\" more\"},{\"title\":\"Early Departure
+  - 4 hours Staggered Early Release - All Employees Must Depart No Later Than 1:00
+  pm - Operating Status of the Washington, DC area Federal Government\",\"description\":\"Employees
+  of Federal offices in the Washington, DC area are authorized for early departure.
+  Employees should depart 4 hours earlier than their normal departure time and may
+  request UNSCHEDULED LEAV...\"},{\"title\":\"Open with Option for Unscheduled Leave
+  or Unscheduled Telework - Operating Status of the Washington, DC area Federal Government\",\"description\":\"Federal
+  offices in the Washington, DC area are OPEN and employees have the OPTION for UNSCHEDULED
+  LEAVE OR UNSCHEDULED TELEWORK. more\"},{\"title\":\"Open with Option for Unscheduled
+  Leave or Unscheduled Telework - Operating Status of the Washington, DC area Federal
+  Government\",\"description\":\"Federal offices in the Washington, DC area are OPEN
+  and employees have the OPTION for UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. more\"},{\"title\":\"Office
+  Closure - Operating Status of the Washington, DC area Federal Government\",\"description\":\"FEDERAL
+  OFFICES in the Washington, DC area are CLOSED. Emergency employees and telework
+  employees continue to work. more\"},{\"title\":\"Open - 2 hours Delayed Arrival
+  - With Option for Unscheduled Leave or Unscheduled Telework - Operating Status of
+  the Washington, DC area Federal Government\",\"description\":\"Federal offices in
+  the Washington, DC area are OPEN under 2 hours DELAYED ARRIVAL and employees have
+  the OPTION FOR UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. Employees should plan
+  to arrive for wo...\"},{\"title\":\"Open - 3 hours Delayed Arrival - With Option
+  for Unscheduled Leave or Unscheduled Telework - Operating Status of the Washington,
+  DC area Federal Government\",\"description\":\"Federal offices in the Washington,
+  DC area are OPEN under 3 hours DELAYED ARRIVAL and employees have the OPTION FOR
+  UNSCHEDULED LEAVE OR UNSCHEDULED TELEWORK. Employees should plan to arrive for wo...\"},{\"title\":\"Early
+  Departure - 2 hours Staggered Release - Operating Status of the Washington, DC area
+  Federal Government\",\"description\":\"Employees of Federal offices in the Washington,
+  DC area are authorized for early departure. Employees should depart 2 hours earlier
+  than their normal departure times and may request UNSCHEDULED LEA...\"},{\"title\":\"Open
+  - Operating Status of the Washington, DC area Federal Government\",\"description\":\"Federal
+  offices in the Washington, DC area are OPEN.\\r\\n\\r\\nEach employee should refer
+  to their own agency for communications and guidance on resumption of duties.  more\"}],\"id\":\"opm\",\"updatedAt\":1667984634414}\n\n"
+sss-LABPC1: "data: {\"result\":1,\"id\":\"sss-LABPC1\",\"updatedAt\":1673334362051}\n\n"
+sss-LABPC2: "data: {\"result\":1,\"id\":\"sss-LABPC2\",\"updatedAt\":1673334364107}\n\n"
+sss-LABPC3: "data: {\"result\":1,\"id\":\"sss-LABPC3\",\"updatedAt\":1673334349470}\n\n"
+sss-LABPC4: "data: {\"result\":1,\"id\":\"sss-LABPC4\",\"updatedAt\":1673334358503}\n\n"
+sss-LABPC5: "data: {\"result\":1,\"id\":\"sss-LABPC5\",\"updatedAt\":1673334364114}\n\n"
+sss-LABPC6: "data: {\"result\":1,\"id\":\"sss-LABPC6\",\"updatedAt\":1673334346499}\n\n"
+sss-LABPC7: "data: {\"result\":1,\"id\":\"sss-LABPC7\",\"updatedAt\":1673334355533}\n\n"
+sss-LABPC8: "data: {\"result\":1,\"id\":\"sss-LABPC8\",\"updatedAt\":1673334364111}\n\n"
