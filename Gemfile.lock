@@ -15,6 +15,11 @@ GEM
     fugit (1.8.1)
       et-orbi (~> 1, >= 1.2.7)
       raabro (~> 1.4)
+    httpclient (2.8.3)
+    little-plugger (1.1.4)
+    logging (2.3.1)
+      little-plugger (~> 1.1)
+      multi_json (~> 1.14)
     multi_json (1.15.0)
     mustermann (2.0.2)
       ruby2_keywords (~> 0.0.1)
@@ -28,6 +33,7 @@ GEM
     rack-protection (2.2.4)
       rack
     ruby2_keywords (0.0.5)
+    rubyntlm (0.6.3)
     rufus-scheduler (3.8.2)
       fugit (~> 1.1, >= 1.1.6)
     sassc (2.4.0)
@@ -68,15 +74,22 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     uri (0.12.1)
+    viewpoint (1.1.1)
+      httpclient
+      logging
+      nokogiri
+      rubyntlm
 
 PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  net-http (~> 0.3.2)
+  net-http
   nokogiri (~> 1.14, >= 1.14.3)
   sinatra_cyclist
   smashing
+  uri
+  viewpoint (~> 1.1, >= 1.1.1)
 
 BUNDLED WITH
    2.4.12

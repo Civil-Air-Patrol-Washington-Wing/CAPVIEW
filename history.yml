@@ -3,41 +3,45 @@ buzzwords: "data: {\"items\":[{\"label\":\"Exit strategy\",\"value\":1},{\"label
   2.0\",\"value\":2},{\"label\":\"Leverage\",\"value\":1},{\"label\":\"Pivoting\",\"value\":2},{\"label\":\"Turn-key\",\"value\":2},{\"label\":\"Streamlininess\",\"value\":3},{\"label\":\"Enterprise\",\"value\":1},{\"label\":\"Paradigm
   shift\",\"value\":1}],\"id\":\"buzzwords\",\"updatedAt\":1681632056599}\n\n"
 convergence: "data: {\"points\":[{\"x\":17,\"y\":40},{\"x\":18,\"y\":0},{\"x\":19,\"y\":34},{\"x\":20,\"y\":49},{\"x\":21,\"y\":23},{\"x\":22,\"y\":38},{\"x\":23,\"y\":33},{\"x\":24,\"y\":15},{\"x\":25,\"y\":33},{\"x\":26,\"y\":35}],\"id\":\"convergence\",\"updatedAt\":1681632056599}\n\n"
-valuation: "data: {\"current\":42,\"last\":67,\"id\":\"valuation\",\"updatedAt\":1681756743801}\n\n"
-karma: "data: {\"current\":70847,\"last\":193073,\"id\":\"karma\",\"updatedAt\":1681756743801}\n\n"
-synergy: "data: {\"value\":42,\"id\":\"synergy\",\"updatedAt\":1681756743801}\n\n"
+valuation: "data: {\"current\":59,\"last\":2,\"id\":\"valuation\",\"updatedAt\":1681762208286}\n\n"
+karma: "data: {\"current\":60424,\"last\":157279,\"id\":\"karma\",\"updatedAt\":1681762208286}\n\n"
+synergy: "data: {\"value\":93,\"id\":\"synergy\",\"updatedAt\":1681762208286}\n\n"
 query1: "data: {\"current\":11,\"id\":\"query1\",\"updatedAt\":1681632054806}\n\n"
 news: "data: {\"headlines\":[{\"title\":\"Junior doctor strike led to 196,000 cancellations\",\"description\":\"The
   walkout was most disruptive NHS strike yet - with bosses warning future action will
   risk care.\"},{\"title\":\"Rishi Sunak investigated over declaration of interest\",\"description\":\"The
   prime minister faces a declaration of interest inquiry over a childcare firm his
-  wife has shares in.\"},{\"title\":\"Vladimir Kara-Murza: Russian opposition figure
-  jailed for 25 years\",\"description\":\"Vladimir Kara-Murza says the harsh sentence
-  shows he is \\\"doing everything right\\\".\"},{\"title\":\"Lucy Letby trial: Nurse's
-  notes read 'I killed them', jury told\",\"description\":\"A note found at Lucy Letby's
-  home stated \\\"maybe this is all down to me\\\", her murder trial is told.\"},{\"title\":\"Last
+  wife has shares in.\"},{\"title\":\"Forced prepay meter installations to be banned
+  in homes of over-85s\",\"description\":\"Energy suppliers will also have to give
+  struggling customers more chances to clear their debts.\"},{\"title\":\"Lucy Letby
+  trial: Nurse's notes read 'I killed them', jury told\",\"description\":\"A note
+  found at Lucy Letby's home stated \\\"maybe this is all down to me\\\", her murder
+  trial is told.\"},{\"title\":\"World Snooker Championship 2023: Play stopped by
+  protesters at the Crucible\",\"description\":\"Play is abandoned in one match and
+  suspended in another at the World Championship as a protester vandalised table one
+  and a second person tried to attach themselves to table two.\"},{\"title\":\"Last
   chance to register to vote in England local elections\",\"description\":\"The deadline
   to register to vote in person or by proxy for local elections in England is just
-  before midnight.\"},{\"title\":\"Sudan fighting: RSF and army clash in Khartoum
-  for third day\",\"description\":\"Doctors estimate 97 people are dead and hundreds
-  more are injured after three days of fighting.\"},{\"title\":\"Sergeant charged
-  with rape of woman while on duty in Plymouth\",\"description\":\"Sgt David Stansbury
-  is charged with three counts of raping a woman in Plymouth in 2009.\"},{\"title\":\"Ralph
-  Yarl: Black teen shot by homeowner after ringing wrong doorbell\",\"description\":\"Ralph
-  Yarl's parents sent him to pick up his brothers, but he got the address wrong.\"},{\"title\":\"NHS
-  Scotland calls 13,000 women for smear tests after error\",\"description\":\"A review
-  of cervical screening cases has found thousands were wrongly removed from the system.\"},{\"title\":\"Teenager
-  living in fear after rapist Sean Hogg walked free\",\"description\":\"Due to new
-  sentencing guidelines Sean Hogg was given community payback for raping a 13-year-old.\"},{\"title\":\"Horror
-  after Chinese trapeze artist falls to her death during display\",\"description\":\"The
-  performer died after her partner, who was also her husband, failed to catch her
-  during a stunt.\"},{\"title\":\"Sony World Photography Award 2023: Winner refuses
-  award after revealing AI creation\",\"description\":\"Boris Eldagsen said he used
-  the image to test the competition and to create an \\\"open discussion\\\".\"},{\"title\":\"BBC
-  Food's family £1 slow cooker meal plan\",\"description\":\"Delicious, budget-friendly
-  slow cooker meal recipes for a family of four.\"},{\"title\":\"Cost of living: How
-  can I save money on my food shop?\",\"description\":\"The cost-of-living crisis
-  continues to bite. Here are some things that can reduce the impact.\"},{\"title\":\"UK
+  before midnight.\"},{\"title\":\"Vladimir Kara-Murza: Russian opposition figure
+  jailed for 25 years\",\"description\":\"Vladimir Kara-Murza says the harsh sentence
+  shows he is \\\"doing everything right\\\".\"},{\"title\":\"Sudan fighting: RSF
+  and army clash in Khartoum for third day\",\"description\":\"Doctors estimate 97
+  people are dead and hundreds more are injured after three days of fighting.\"},{\"title\":\"Ralph
+  Yarl: Black teen shot at doorstep after ringing wrong doorbell\",\"description\":\"Ralph
+  Yarl's parents sent him to pick up his brothers, but he arrived at the wrong address.\"},{\"title\":\"Big
+  Brother Spain: Contestant gets jail time for sexual assault\",\"description\":\"José
+  María López assaulted a woman on the TV show in 2017 after an alcohol-fuelled party.\"},{\"title\":\"Police
+  praise 'brave' shop worker who tackled gun-wielding robber\",\"description\":\"Niall
+  Stranix was 'incredibly brave' in tackling a Leeds man on a robbery crime spree,
+  police say.\"},{\"title\":\"Horror after Chinese trapeze artist falls to her death
+  during display\",\"description\":\"The performer died after her partner, who was
+  also her husband, failed to catch her during a stunt.\"},{\"title\":\"Sony World
+  Photography Award 2023: Winner refuses award after revealing AI creation\",\"description\":\"Boris
+  Eldagsen said he used the image to test the competition and to create an \\\"open
+  discussion\\\".\"},{\"title\":\"BBC Food's family £1 slow cooker meal plan\",\"description\":\"Delicious,
+  budget-friendly slow cooker meal recipes for a family of four.\"},{\"title\":\"Cost
+  of living: How can I save money on my food shop?\",\"description\":\"The cost-of-living
+  crisis continues to bite. Here are some things that can reduce the impact.\"},{\"title\":\"UK
   inflation rate calculator: How much are prices rising for you?\",\"description\":\"Use
   our calculator to find out how much the cost of living is going up in your household.\"},{\"title\":\"What
   is GDP and how is it measured?\",\"description\":\"A basic guide to how the economy
@@ -51,11 +55,11 @@ news: "data: {\"headlines\":[{\"title\":\"Junior doctor strike led to 196,000 ca
   tax: How will thresholds change and what will I pay?\",\"description\":\"The government
   has announced changes to tax rules which mean millions of people will pay more.\"},{\"title\":\"Cost
   of living: What payments are available and how do you claim?\",\"description\":\"Low-income
-  households, pensioners and some disabled people can get extra help with energy bills.\"},{\"title\":\"Who
-  are the two generals fighting over Sudan's future?\",\"description\":\"Gen Burhan
-  and Gen Dagalo's tense relationship has spiralled into conflict engulfing the country.\"},{\"title\":\"Ukraine
-  war: Where are Russia's opposition leaders now?\",\"description\":\"President Putin
-  rules virtually unchallenged, with opponents forced to leave Russia - or worse.\"},{\"title\":\"Ukraine
+  households, pensioners and some disabled people can get extra help with energy bills.\"},{\"title\":\"Sudan:
+  Civilians not spared as Khartoum fighting hits residential areas\",\"description\":\"Videos,
+  photos and testimony from Sudan capital give a picture of how civilians are being
+  impacted.\"},{\"title\":\"Ukraine war: Where are Russia's opposition leaders now?\",\"description\":\"President
+  Putin rules virtually unchallenged, with opponents forced to leave Russia - or worse.\"},{\"title\":\"Ukraine
   war: As the dust settles, did the US leaks reveal anything important?\",\"description\":\"After
   weeks of scrutiny, did the US leaks really give us an insight how the war in Ukraine
   is progressing?\"},{\"title\":\"King Charles coronation: Who is going - and who
@@ -81,17 +85,16 @@ news: "data: {\"headlines\":[{\"title\":\"Junior doctor strike led to 196,000 ca
   Hill Sixteen's death.\"},{\"title\":\"Chelsea v Real Madrid: Calling Blues 'broken'
   is 'a bit much', says interim boss Frank Lampard\",\"description\":\"Saying that
   Chelsea are currently \\\"broken\\\" is \\\"a bit much\\\", says their interim manager
-  Frank Lampard.\"},{\"title\":\"Alex Fletcher: Bath City striker on impact of life-threatening
-  skull injury\",\"description\":\"Alex Fletcher, a non-league striker who fractured
-  his skull colliding with concrete barriers next to the pitch, says \\\"my family
-  were told if I made it I may not be the same person\\\".\"},{\"title\":\"World Snooker
-  2023: Iran's Hossein Vafaei calls out 'legend' Ronnie O'Sullivan before Crucible
-  clash\",\"description\":\"Hossein Vafaei talks about \\\"respect\\\" and says he's
-  \\\"going to be dangerous\\\" if he beats Ronnie O'Sullivan in the second round
-  of the World Snooker Championship.\"},{\"title\":\"Women's Six Nations 2023: England
-  v Ireland concern, Wales self-belief and France\",\"description\":\"BBC Sport reviews
-  round three of the Women's Six Nations, examining the potential for a concerning
-  scoreline plus the lack of self-belief hampering one side.\"}],\"id\":\"news\",\"updatedAt\":1681756389715}\n\n"
+  Frank Lampard.\"},{\"title\":\"World Snooker Championship 2023: Play halted as protesters
+  delay Crucible matches\",\"description\":\"Watch as play is halted at the World
+  Championship after a protester vandalises table one and a second person tries to
+  glue themselves to table two.\"},{\"title\":\"Alex Fletcher: Bath City striker on
+  impact of life-threatening skull injury\",\"description\":\"Alex Fletcher, a non-league
+  striker who fractured his skull colliding with concrete barriers next to the pitch,
+  says \\\"my family were told if I made it I may not be the same person\\\".\"},{\"title\":\"Women's
+  Six Nations 2023: England v Ireland concern, Wales self-belief and France\",\"description\":\"BBC
+  Sport reviews round three of the Women's Six Nations, examining the potential for
+  a concerning scoreline plus the lack of self-belief hampering one side.\"}],\"id\":\"news\",\"updatedAt\":1681761988653}\n\n"
 sss-GATEWAY: "data: {\"result\":1,\"id\":\"sss-GATEWAY\",\"updatedAt\":1681753157837}\n\n"
 sss-NHQ: "data: {\"result\":1,\"id\":\"sss-NHQ\",\"updatedAt\":1681753166903}\n\n"
 sss-GOCAP: "data: {\"result\":1,\"id\":\"sss-GOCAP\",\"updatedAt\":1681753167347}\n\n"
