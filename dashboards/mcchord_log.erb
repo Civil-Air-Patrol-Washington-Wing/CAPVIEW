@@ -1,0 +1,33 @@
+<script type='text/javascript'>
+$(function() {
+  // These settings override the defaults set in application.coffee. You can do this on a per dashboard basis.
+
+  Dashing.widget_base_dimensions = [210,220 ]
+  Dashing.numColumns = 6
+});
+</script>
+
+
+<% content_for :title do %>Welcome to Wing Headquarters<% end %>
+<div class="gridster">
+  <ul>
+  <li data-row="1" data-col="1" data-sizex="5" data-sizey="1">
+  <div data-id="image" data-view="Image" data-title="McChord Banner" data-image="/wing_banner.jpg"></div>
+</li>
+    <li data-row="1" data-col="6" data-sizex="1" data-sizey="1">
+  <div data-view="Clock"></div>
+  <i class="far fa-clock icon-background"></i>
+</li>
+<li data-row="2" data-col="6" data-sizex="1" data-sizey="3">
+<div data-id="iframeId2" data-view="Iframe" data-url="https://widget.airnow.gov/aq-dial-widget/?latitude=47.1234539&longitude=-122.4826255"></div>
+</li>
+<li data-row="2" data-col="4" data-sizex="2" data-sizey="3">
+<div data-id="iframeId2" data-view="Iframe" data-url="https://calendar.google.com/calendar/embed?height=500&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&showDate=1&showNav=0&showPrint=0&showTabs=0&showCalendars=0&showTz=0&mode=AGENDA&src=d2F3Zy5jYXAuZ292X3V0b2c5MmIxMXZqMDFxcTFmczdoMmZqb2xzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=d2F3Zy5jYXAuZ292XzJxbzI4bDU5aW5lcDhoaDZlYTBidWIzMzhjQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%234285F4&color=%233F51B5"></div>
+</li>
+
+<li data-row="2" data-col="1" data-sizex="3" data-sizey="3">
+<div data-id="iframeId3" data-view="Iframe" data-url="https://docs.google.com/forms/d/e/1FAIpQLSeYqVFX-m9nSWIdqNxAT6JNSphE24XVSB9ERQrT0l9sRuyUAw/viewform?embedded=true"></div>
+</li>
+
+</ul>
+</div>
