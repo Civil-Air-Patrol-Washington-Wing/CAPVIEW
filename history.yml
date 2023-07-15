@@ -1,100 +1,131 @@
 ---
-buzzwords: "data: {\"items\":[{\"label\":\"Exit strategy\",\"value\":1},{\"label\":\"Synergy\",\"value\":3},{\"label\":\"Web
-  2.0\",\"value\":2},{\"label\":\"Leverage\",\"value\":1},{\"label\":\"Pivoting\",\"value\":2},{\"label\":\"Turn-key\",\"value\":2},{\"label\":\"Streamlininess\",\"value\":3},{\"label\":\"Enterprise\",\"value\":1},{\"label\":\"Paradigm
-  shift\",\"value\":1}],\"id\":\"buzzwords\",\"updatedAt\":1681632056599}\n\n"
-convergence: "data: {\"points\":[{\"x\":17,\"y\":40},{\"x\":18,\"y\":0},{\"x\":19,\"y\":34},{\"x\":20,\"y\":49},{\"x\":21,\"y\":23},{\"x\":22,\"y\":38},{\"x\":23,\"y\":33},{\"x\":24,\"y\":15},{\"x\":25,\"y\":33},{\"x\":26,\"y\":35}],\"id\":\"convergence\",\"updatedAt\":1681632056599}\n\n"
-valuation: "data: {\"current\":59,\"last\":2,\"id\":\"valuation\",\"updatedAt\":1681762208286}\n\n"
-karma: "data: {\"current\":60424,\"last\":157279,\"id\":\"karma\",\"updatedAt\":1681762208286}\n\n"
-synergy: "data: {\"value\":93,\"id\":\"synergy\",\"updatedAt\":1681762208286}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Enterprise\",\"value\":3},{\"label\":\"Exit
+  strategy\",\"value\":5},{\"label\":\"Paradigm shift\",\"value\":6},{\"label\":\"Streamlininess\",\"value\":1},{\"label\":\"Turn-key\",\"value\":4},{\"label\":\"Pivoting\",\"value\":5},{\"label\":\"Web
+  2.0\",\"value\":2},{\"label\":\"Synergy\",\"value\":2},{\"label\":\"Leverage\",\"value\":2}],\"id\":\"buzzwords\",\"updatedAt\":1689431093294}\n\n"
+convergence: "data: {\"points\":[{\"x\":31,\"y\":49},{\"x\":32,\"y\":40},{\"x\":33,\"y\":42},{\"x\":34,\"y\":20},{\"x\":35,\"y\":24},{\"x\":36,\"y\":6},{\"x\":37,\"y\":35},{\"x\":38,\"y\":47},{\"x\":39,\"y\":5},{\"x\":40,\"y\":32}],\"id\":\"convergence\",\"updatedAt\":1689431093294}\n\n"
+valuation: "data: {\"current\":63,\"last\":53,\"id\":\"valuation\",\"updatedAt\":1689431093294}\n\n"
+karma: "data: {\"current\":58695,\"last\":151126,\"id\":\"karma\",\"updatedAt\":1689431093294}\n\n"
+synergy: "data: {\"value\":78,\"id\":\"synergy\",\"updatedAt\":1689431093294}\n\n"
 query1: "data: {\"current\":11,\"id\":\"query1\",\"updatedAt\":1681632054806}\n\n"
-news: "data: {\"headlines\":[{\"title\":\"Junior doctor strike led to 196,000 cancellations\",\"description\":\"The
-  walkout was most disruptive NHS strike yet - with bosses warning future action will
-  risk care.\"},{\"title\":\"Rishi Sunak investigated over declaration of interest\",\"description\":\"The
-  prime minister faces a declaration of interest inquiry over a childcare firm his
-  wife has shares in.\"},{\"title\":\"Forced prepay meter installations to be banned
-  in homes of over-85s\",\"description\":\"Energy suppliers will also have to give
-  struggling customers more chances to clear their debts.\"},{\"title\":\"Lucy Letby
-  trial: Nurse's notes read 'I killed them', jury told\",\"description\":\"A note
-  found at Lucy Letby's home stated \\\"maybe this is all down to me\\\", her murder
-  trial is told.\"},{\"title\":\"World Snooker Championship 2023: Play stopped by
-  protesters at the Crucible\",\"description\":\"Play is abandoned in one match and
-  suspended in another at the World Championship as a protester vandalised table one
-  and a second person tried to attach themselves to table two.\"},{\"title\":\"Last
-  chance to register to vote in England local elections\",\"description\":\"The deadline
-  to register to vote in person or by proxy for local elections in England is just
-  before midnight.\"},{\"title\":\"Vladimir Kara-Murza: Russian opposition figure
-  jailed for 25 years\",\"description\":\"Vladimir Kara-Murza says the harsh sentence
-  shows he is \\\"doing everything right\\\".\"},{\"title\":\"Sudan fighting: RSF
-  and army clash in Khartoum for third day\",\"description\":\"Doctors estimate 97
-  people are dead and hundreds more are injured after three days of fighting.\"},{\"title\":\"Ralph
-  Yarl: Black teen shot at doorstep after ringing wrong doorbell\",\"description\":\"Ralph
-  Yarl's parents sent him to pick up his brothers, but he arrived at the wrong address.\"},{\"title\":\"Big
-  Brother Spain: Contestant gets jail time for sexual assault\",\"description\":\"José
-  María López assaulted a woman on the TV show in 2017 after an alcohol-fuelled party.\"},{\"title\":\"Police
-  praise 'brave' shop worker who tackled gun-wielding robber\",\"description\":\"Niall
-  Stranix was 'incredibly brave' in tackling a Leeds man on a robbery crime spree,
-  police say.\"},{\"title\":\"Horror after Chinese trapeze artist falls to her death
-  during display\",\"description\":\"The performer died after her partner, who was
-  also her husband, failed to catch her during a stunt.\"},{\"title\":\"Sony World
-  Photography Award 2023: Winner refuses award after revealing AI creation\",\"description\":\"Boris
-  Eldagsen said he used the image to test the competition and to create an \\\"open
-  discussion\\\".\"},{\"title\":\"BBC Food's family £1 slow cooker meal plan\",\"description\":\"Delicious,
-  budget-friendly slow cooker meal recipes for a family of four.\"},{\"title\":\"Cost
-  of living: How can I save money on my food shop?\",\"description\":\"The cost-of-living
-  crisis continues to bite. Here are some things that can reduce the impact.\"},{\"title\":\"UK
-  inflation rate calculator: How much are prices rising for you?\",\"description\":\"Use
-  our calculator to find out how much the cost of living is going up in your household.\"},{\"title\":\"What
-  is GDP and how is it measured?\",\"description\":\"A basic guide to how the economy
-  is measured and what that calculation is used for.\"},{\"title\":\"Rent prices:
-  How much have they gone up in your area?\",\"description\":\"Use our interactive
-  tool to find out what the average rent is in your area.\"},{\"title\":\"Cost of
-  living: Five tips when asking for a pay rise\",\"description\":\"Recruiters, a manager
-  and a workplace psychologist give their advice on how to negotiate for more money.\"},{\"title\":\"Cost
-  of living: What do I do if I can't afford to pay my debts?\",\"description\":\"What
-  help and options are available to people struggling with debt repayments?\"},{\"title\":\"Income
-  tax: How will thresholds change and what will I pay?\",\"description\":\"The government
-  has announced changes to tax rules which mean millions of people will pay more.\"},{\"title\":\"Cost
-  of living: What payments are available and how do you claim?\",\"description\":\"Low-income
-  households, pensioners and some disabled people can get extra help with energy bills.\"},{\"title\":\"Sudan:
-  Civilians not spared as Khartoum fighting hits residential areas\",\"description\":\"Videos,
-  photos and testimony from Sudan capital give a picture of how civilians are being
-  impacted.\"},{\"title\":\"Ukraine war: Where are Russia's opposition leaders now?\",\"description\":\"President
-  Putin rules virtually unchallenged, with opponents forced to leave Russia - or worse.\"},{\"title\":\"Ukraine
-  war: As the dust settles, did the US leaks reveal anything important?\",\"description\":\"After
-  weeks of scrutiny, did the US leaks really give us an insight how the war in Ukraine
-  is progressing?\"},{\"title\":\"King Charles coronation: Who is going - and who
-  isn't?\",\"description\":\"From royalty and world leaders to volunteers and celebrities
-  - here's what we know about the guest list.\"},{\"title\":\"Have the Conservatives
-  increased council tax by 15%?\",\"description\":\"Labour made the claim in a campaign
-  advert tweeted over the weekend.\"},{\"title\":\"Life on hold: NI's missing people\",\"description\":\"Behind
-  the statistics of missing people are the stories of the families left behind.\"},{\"title\":\"Primary
-  school places: How can parents appeal over school places?\",\"description\":\"Children
-  starting school in England and Wales in September 2023 are being offered school
-  places.\"},{\"title\":\"We don't want this to end - stars at Eurovision pre-party\",\"description\":\"'We
-  don't want this to end,' singers tell the BBC as they perform for fans ahead of
-  May's finale.\"},{\"title\":\"Uganda's failure to jail child rapists as teen pregnancies
-  soar\",\"description\":\"Corruption and the legacy of a brutal rebellion in the
-  north halts the prosecution of perpetrators.\"},{\"title\":\"The artificial intelligence
-  matching drugs to patients\",\"description\":\"Health-tech firms around the world
-  are increasingly using AI to help tailor drugs for patients.\"},{\"title\":\"Supreme
-  Court: Is India on the cusp of legalising same-sex marriage?\",\"description\":\"All
-  eyes are on the Supreme Court as it readies to hear cases seeking legalisation of
-  same-sex union.\"},{\"title\":\"'Ignorant' protesters blamed for Grand National
-  horse death\",\"description\":\"Horse trainer Sandy Thomson says the interruption
-  to the Grand National by \\\"ignorant\\\" animal rights activists contributed to
-  Hill Sixteen's death.\"},{\"title\":\"Chelsea v Real Madrid: Calling Blues 'broken'
-  is 'a bit much', says interim boss Frank Lampard\",\"description\":\"Saying that
-  Chelsea are currently \\\"broken\\\" is \\\"a bit much\\\", says their interim manager
-  Frank Lampard.\"},{\"title\":\"World Snooker Championship 2023: Play halted as protesters
-  delay Crucible matches\",\"description\":\"Watch as play is halted at the World
-  Championship after a protester vandalises table one and a second person tries to
-  glue themselves to table two.\"},{\"title\":\"Alex Fletcher: Bath City striker on
-  impact of life-threatening skull injury\",\"description\":\"Alex Fletcher, a non-league
-  striker who fractured his skull colliding with concrete barriers next to the pitch,
-  says \\\"my family were told if I made it I may not be the same person\\\".\"},{\"title\":\"Women's
-  Six Nations 2023: England v Ireland concern, Wales self-belief and France\",\"description\":\"BBC
-  Sport reviews round three of the Women's Six Nations, examining the potential for
-  a concerning scoreline plus the lack of self-belief hampering one side.\"}],\"id\":\"news\",\"updatedAt\":1681761988653}\n\n"
+news: "data: {\"headlines\":[{\"title\":\"Sudan violence: UK diplomats evacuated from
+  Khartoum\",\"description\":\"Hundreds of people have died after fierce fighting
+  erupted last week between two opposing forces.\"},{\"title\":\"School tutoring:
+  One third of £594m post-lockdown cash unspent\",\"description\":\"Education experts
+  say the national tutoring programme helped some pupils but could have reached more.\"},{\"title\":\"West
+  Bank: Brother of Palestinian killed in Hawara seeks answers\",\"description\":\"The
+  family of a man killed amid a rampage by Israeli settlers fear no-one will be held
+  to account.\"},{\"title\":\"Millions of families miss out on cheap broadband\",\"description\":\"Ofcom
+  is concerned that people are not getting the broadband social tariffs they are entitled
+  to.\"},{\"title\":\"Wrexham: Ryan Reynolds fulfils fan Jay Fear's dying wish\",\"description\":\"Jay
+  Fear, who has terminal cancer, has an \\\"incredible 24 hours\\\" meeting the star
+  Wrexham co-owner.\"},{\"title\":\"Derby: Man charged over fatal dog attack at house\",\"description\":\"Wayne
+  Stevens, 51, died after being injured by a dog that was shot dead by police.\"},{\"title\":\"Diane
+  Abbott suspended as Labour MP after racism letter\",\"description\":\"The MP says
+  she apologises \\\"for any anguish caused\\\" and wishes to \\\"unreservedly\\\"
+  withdraw her remarks.\"},{\"title\":\"Kenya cult deaths: 47 bodies found in investigation
+  into 'starvation cult'\",\"description\":\"A preacher in custody allegedly told
+  followers to starve themselves in order to \\\"meet Jesus\\\".\"},{\"title\":\"Emergency
+  alert test fails to sound on some phones\",\"description\":\"While millions of people
+  across the UK heard an alarm on their phones, many others did not.\"},{\"title\":\"Eurovision
+  2023: Extra tickets to go on sale\",\"description\":\"There is a \\\"limited number\\\"
+  of tickets left for live shows and production previews, the BBC says.\"},{\"title\":\"Aitch:
+  Rapper does skydive in honour of sister Gracie\",\"description\":\"The rapper made
+  the jump in honour of his little sister Gracie, 13, who has Down's Syndrome.\"},{\"title\":\"Maleficent:
+  Dragon catches fire during Disneyland show in LA\",\"description\":\"Maleficent
+  the fire-breathing dragon dramatically went up in flames during Saturday's live
+  show.\"},{\"title\":\"The Papers: Labour racism row and Britons rescued from Sudan\",\"description\":\"Diane
+  Abbott loses the Labour whip and Britons being evacuated from war-torn Sudan lead
+  Monday's papers.\"},{\"title\":\"Barry: 'A stranger I met at the beach gave me her
+  kidney'\",\"description\":\"Lucy Humphrey's dog, Indie, \\\"chose\\\" the woman
+  who was able to give her the transplant she needed.\"},{\"title\":\"Local elections
+  2023: How sewage topped the political agenda\",\"description\":\"Sewage and water
+  quality is a big issue for many voters - and politicians have smelled an opportunity.\"},{\"title\":\"Wagner
+  in Sudan: What have Russian mercenaries been up to?\",\"description\":\"The Wagner
+  group denies involvement in the current conflict, but there's evidence it has previously
+  been active in Sudan.\"},{\"title\":\"Fifa game successor EA Sports FC set for kick-off\",\"description\":\"Work
+  has started on introducing the successor to the famous football game.\"},{\"title\":\"The
+  wedding tech now at the heart of couples' nuptials\",\"description\":\"A growing
+  number of brides and grooms are embracing technology for their big day.\"},{\"title\":\"London
+  Marathon: Sifan Hassan overcomes injury to claim rollercoaster victory in debut
+  marathon\",\"description\":\"Sifan Hassan overcomes injury and a world-class field
+  to win the London Marathon - possibly the greatest victory over the distance ever.\"},{\"title\":\"Jack
+  Teixeira: The video game players sharing secrets online\",\"description\":\"Online
+  gamers are posting classified documents online to settle arguments over military
+  hardware.\"},{\"title\":\"Looking after tiny islands 'best job in the world'\",\"description\":\"Jonathan
+  Grant is working his last season as caretaker for three uninhabited Scottish islands.\"},{\"title\":\"Your
+  full guide to King Charles III's coronation and the key times\",\"description\":\"Processions,
+  ancient rituals, a fly-past and the crowning moment - the key stages of King Charles
+  III's coronation.\"},{\"title\":\"Ukraine war: Russian artists back Putin or face
+  censorship\",\"description\":\"Russian musicians and artists face a choice: support
+  Putin and the war, or lose the spotlight.\"},{\"title\":\"CBI rape allegations shocking
+  says Labour shadow minister\",\"description\":\"The lobbying group needs 'root and
+  branch' reform, says Labour's Jonathan Ashworth.\"},{\"title\":\"Michael Schumacher:
+  Magazine editor sacked over AI-generated 'interview' with seven-time F1 champion\",\"description\":\"The
+  editor of a German magazine that published an artificial intelligence-generated
+  'interview' with Michael Schumacher has been sacked.\"},{\"title\":\"Wrexham: Paul
+  Rudd joins Ryan Reynolds and Rob McElhenney at promotion win\",\"description\":\"Ant-Man
+  star Paul Rudd joined Ryan Reynolds and Rob McElhenney to watch Wrexham's historic
+  triumph.\"},{\"title\":\"Brecon Beacons: Bannau Brycheiniog rebrand shows why names
+  matter\",\"description\":\"It seems everyone has an opinion on the newly rebranded
+  Bannau Brycheiniog, but why do names matter?\"},{\"title\":\"Your pictures on the
+  theme of 'on the edge'\",\"description\":\"A selection of striking images from our
+  readers around the world.\"},{\"title\":\"What photo ID do you need to vote in UK
+  elections?\",\"description\":\"Voters have only a few days left to apply for an
+  alternative ID ahead of elections on 4 May.\"},{\"title\":\"Ukraine war: Bakhmut
+  defender remembered by comrades\",\"description\":\"Pavel Kuzin single-handedly
+  manned a machine gun in Bakhmut so his comrades could be evacuated.\"},{\"title\":\"Week
+  in pictures: 15-21 April 2023\",\"description\":\"A selection of striking images
+  from around the world, taken in the past seven days.\"},{\"title\":\"Nuclear weapons:
+  Why South Koreans want the bomb\",\"description\":\"Support for building nuclear
+  weapons is growing in the country as tensions with the North rise.\"},{\"title\":\"Australia
+  to fast track citizenship for New Zealanders\",\"description\":\"New Zealanders
+  residing in Australia for four years or more can now apply directly for citizenship.\"},{\"title\":\"Vladimir
+  Kara-Murza: Family's heartbreak at Putin critic's jail term\",\"description\":\"Vladimir
+  Kara-Murza's wife Evgenia does not know if she or their children will see him again.\"},{\"title\":\"Earth
+  Day: How to talk to your parents about climate change\",\"description\":\"You want
+  to do more about climate change, but how do you persuade the people who call the
+  shots?\"},{\"title\":\"How do you dispose of a giant whale from a beach?\",\"description\":\"Dr
+  Andrew Brownlow said the method of disposing of a whale was decided on a \\\"case
+  by case basis\\\"\"},{\"title\":\"Mifepristone: US Supreme Court preserves abortion
+  drug access\",\"description\":\"For now access to mifepristone remains unchanged,
+  in the latest legal battle over abortion in the US.\"},{\"title\":\"Just Stop Oil:
+  Dartford Crossing protesters jailed\",\"description\":\"Morgan Trowland and Marcus
+  Decker receive prison sentences after climbing the M25 bridge last year.\"},{\"title\":\"Hungary
+  casts doubt on Nato's Ukraine membership plan\",\"description\":\"\\\"What?!\\\"
+  says Hungary's prime minister, in response to long-term plans to admit Ukraine.\"},{\"title\":\"Newcastle
+  6-1 Tottenham: It's too late to save Spurs' season - Jermaine Jenas analysis\",\"description\":\"Former
+  Tottenham midfielder Jermaine Jenas explains why his old side's problems on the
+  pitch reflect their lack of direction off it.\"},{\"title\":\"FA Cup highlights:
+  Man Utd beat Brighton on penalties to reach final\",\"description\":\"Watch highlights
+  as Manchester United beat Brighton in a tense penalty shootout at Wembley Stadium
+  to set up a first FA Cup final against Manchester City.\"},{\"title\":\"Newcastle
+  6-1 Tottenham: Champions League showdown that was a humiliation\",\"description\":\"It
+  was the 21 minutes that moved Newcastle closer to a Champions League return - and
+  illustrated the shambolic state Tottenham are in.\"},{\"title\":\"World Snooker
+  Championship 2023: Four-time world champion John Higgins hammers Kyren Wilson\",\"description\":\"John
+  Higgins storms to an impressive 13-2 victory over Kyren Wilson to book his place
+  in a 17th World Championship quarter-final.\"},{\"title\":\"Women's Champions League:
+  Arsenal's mission accomplished in Germany but only half-time in tie\",\"description\":\"Arsenal
+  accomplish their Women's Champions League mission in Wolfsburg - and they did so
+  despite a tough week of injury setbacks - but it remains half-time in a finely balanced
+  tie.\"},{\"title\":\"Garth Crooks' Team of the Week: Jota, Rice, Guehi, Mahrez\",\"description\":\"Which
+  players impressed our football pundit Garth Crooks enough to make his latest Team
+  of the Week?\"},{\"title\":\"Cost of living: How can I save money on my food shop?\",\"description\":\"The
+  cost-of-living crisis continues to bite. Here are some things that can reduce the
+  impact.\"},{\"title\":\"Money Diary: 'When the kids are off you end up spending
+  more'\",\"description\":\"Freelance radio presenter Janine Marsh shares her weekly
+  spending diary.\"},{\"title\":\"Neighbour admits killing mother and daughters in
+  house fire\",\"description\":\"Fatoumatta Hydara and her daughters, aged one and
+  three, died from inhaling smoke in the house fire.\"},{\"title\":\"UK inflation
+  rate calculator: How much are prices rising for you?\",\"description\":\"Use our
+  calculator to find out how much the cost of living is going up in your household.\"},{\"title\":\"BBC
+  Food's family £1 slow cooker meal plan\",\"description\":\"Delicious, budget-friendly
+  slow cooker meal recipes for a family of four.\"},{\"title\":\"Frozen food beating
+  fresh as shoppers seek savings\",\"description\":\"Chicken, chips, pizza and ready
+  meals are the most popular frozen items, supermarket data shows.\"},{\"title\":\"Food
+  prices: How the humble shopping list is saving us money\",\"description\":\"Soaring
+  food prices mean some families are missing meals and desperate for deals, but preparation
+  can help.\"}],\"id\":\"news\",\"updatedAt\":1682298753880}\n\n"
 sss-GATEWAY: "data: {\"result\":1,\"id\":\"sss-GATEWAY\",\"updatedAt\":1681753157837}\n\n"
 sss-NHQ: "data: {\"result\":1,\"id\":\"sss-NHQ\",\"updatedAt\":1681753166903}\n\n"
 sss-GOCAP: "data: {\"result\":1,\"id\":\"sss-GOCAP\",\"updatedAt\":1681753167347}\n\n"
@@ -106,3 +137,629 @@ sss-LABPC5: "data: {\"result\":1,\"id\":\"sss-LABPC5\",\"updatedAt\":16817531758
 sss-LABPC6: "data: {\"result\":1,\"id\":\"sss-LABPC6\",\"updatedAt\":1681753176933}\n\n"
 sss-LABPC7: "data: {\"result\":1,\"id\":\"sss-LABPC7\",\"updatedAt\":1681753163782}\n\n"
 sss-LABPC8: "data: {\"result\":1,\"id\":\"sss-LABPC8\",\"updatedAt\":1681753172861}\n\n"
+nyt: "data: {\"headlines\":[{\"title\":\"Chinese Censorship Is Quietly Rewriting the
+  Covid-19 Story\",\"description\":\"Under government pressure, Chinese scientists
+  have retracted studies and withheld or deleted data. The censorship has stymied
+  efforts to understand the virus.\"},{\"title\":\"U.S. Pulls Diplomats From Sudan,
+  and an Exodus Begins\",\"description\":\"With hopes fading that two warring generals
+  will end their battle anytime soon, diplomats and other foreigners began heading
+  for Sudan’s doors.\"},{\"title\":\"What We Know About the Fighting in Sudan\",\"description\":\"The
+  strategically important country in northeastern Africa has been consumed by more
+  than a week of fighting between two military factions. Sudanese are fleeing and
+  many countries are evacuating th...\"},{\"title\":\"At U.Va., an Alumnus Attacked
+  D.E.I. Programs. Now, He Is on the Board.\",\"description\":\"As D.E.I. programs
+  come under attack, a plan at the University of Virginia for “more diversity, less
+  Confederacy” enraged some alumni, who started organizing against it.\"},{\"title\":\"‘I
+  Cry Quietly’: A Soldier Describes the Toll of Russia’s War\",\"description\":\"For
+  Valentyn, a Ukrainian soldier in the Donetsk region, the war’s death toll is more
+  than a statistic. He is tasked with moving wounded troops — and dead bodies — away
+  from the front lines, often ...\"},{\"title\":\"Ukraine Says Russian Troops Are
+  Evacuating Civilians From Occupied Areas of South\",\"description\":\"Russian troops
+  are forcibly relocating residents near the southern city of Kherson as fighting
+  there intensifies, a Ukrainian official said Sunday.\"},{\"title\":\"Biden Opens
+  a New Back Door on Immigration\",\"description\":\"Congress has yet to pass an immigration
+  overhaul, but President Biden has used his executive authority to significantly
+  expand the number of legal immigrants entering the U.S.\"},{\"title\":\"Barlocco
+  Island in Scotland Listed for $186,000\",\"description\":\"Reaching Barlocco Island
+  is challenging, and staying there for any length of time even more so. Still, dozens
+  are vying for the 25 acres of nature.\"},{\"title\":\"Bed Bath & Beyond Files for
+  Bankruptcy\",\"description\":\"The company, which failed to fully reckon with the
+  rise of online shopping, said that store closing sales would begin on Wednesday.\"},{\"title\":\"Black
+  Smokers at Center of New York Fight to Ban Menthol Cigarettes\",\"description\":\"A
+  proposal to make New York the third state to ban menthol cigarettes has created
+  a furious and expensive lobbying war, and has divided Black leaders.\"},{\"title\":\"Jeff
+  Shell, CEO of NBCUniversal, Steps Down After Inquiry\",\"description\":\"Comcast,
+  the company’s owner, said he was leaving after an investigation into “an inappropriate
+  relationship with a woman in the company.”\"},{\"title\":\"Rachel Weisz, ‘Dead Ringers’
+  and the Glorious Horrors of Pregnancy\",\"description\":\"Her brilliant streaming
+  remake of the psychosexual thriller “Dead Ringers” has a refreshing new perspective
+  on childbirth.\"},{\"title\":\"How Do You Create a Container Garden? Start Here.\",\"description\":\"From
+  the choice and arrangement of your pots to how you think about what goes in them,
+  one garden designer has some advice for you.\"},{\"title\":\"The Violence in Sudan
+  Is Partly Our Fault\",\"description\":\"The international community should not stop
+  trying to end violent conflicts, but future efforts must consider who matters for
+  peace and who does not.\"},{\"title\":\"Gun Idolatry Is Destroying the Case for
+  Guns\",\"description\":\"The use of a firearm must be a last resort, not the first
+  one.\"},{\"title\":\"Bird Flu is Killing Off the World’s Birds\",\"description\":\"There’s
+  an outbreak in the animal kingdom.\"},{\"title\":\"My Synagogue Was Attacked, but
+  That’s Not What Scares Me Most\",\"description\":\"As a rabbi, I can’t prevent anti-Semitic
+  acts in America, but I can work to alleviate the fear that threats create.\"},{\"title\":\"Sacklers
+  Gave Millions to Institution That Advises on Opioid Policy\",\"description\":\"Even
+  as the nation’s drug crisis mounted, the National Academies of Sciences, Engineering
+  and Medicine continued to accept funds from some members of the Sackler family,
+  including those involved wi...\"},{\"title\":\"Republicans Try to Keep Abortion
+  Rights Off the Ballot\",\"description\":\"After abortion rights supporters swept
+  six ballot measures last year, Republican legislatures seek to make it harder to
+  get on the ballot, and harder to win if there is a vote.\"},{\"title\":\"After Ralph
+  Yarl Shooting, Kansas City Grapples With Race\",\"description\":\"In a city that
+  has seen a new wave of business investment, the shooting of Ralph Yarl, 16, drew
+  new attention to persistent disparities between Black and white residents.\"},{\"title\":\"The
+  Fabulous Yields, and Lurking Risks, of Money Market Funds\",\"description\":\"The
+  funds are paying enticing interest rates right now. But the debt ceiling and signs
+  of weakness in the banking system are worrisome, our columnist says.\"},{\"title\":\"An
+  Outsider Takes on Ireland, From Inside a Plastic Bag\",\"description\":\"The podcaster
+  behind the popular “Blindboy Podcast,” who earlier gained fame as part of the Rubberbandits
+  hip-hop duo, says that covering his face lets him say things he couldn’t otherwise.\"},{\"title\":\"Today’s
+  Wordle Review: April 23, 2023\",\"description\":\"Our columnist reviews the day’s
+  puzzle. Warning: Contains spoilers!\"}],\"id\":\"nyt\",\"updatedAt\":1682304034823}\n\n"
+bbc-tech: "data: {\"headlines\":[{\"title\":\"Millions of families miss out on cheap
+  broadband\",\"description\":\"Ofcom is concerned that people are not getting the
+  broadband social tariffs they are entitled to.\"},{\"title\":\"Twitter's blue tick
+  restored to high profile accounts\",\"description\":\"Many accounts with large numbers
+  of followers have regained their blue tick despite not paying for it.\"},{\"title\":\"Is
+  time up for Twitter?\",\"description\":\"What Elon Musk's blue checkmark shake-up
+  could mean for the platform's future.\"},{\"title\":\"Beyoncé and Ronaldo among
+  those to lose Twitter blue check in purge\",\"description\":\"The social media giant
+  has erased the once-coveted blue tick verification from thousands of accounts.\"},{\"title\":\"Twitter
+  blue tick: Multiple Hillarys and New Yorks as verifications disappear\",\"description\":\"The
+  social media giant has erased the once-coveted verification from thousands of accounts.\"},{\"title\":\"Facebook
+  still being used to arrange fake reviews - Which?\",\"description\":\"The consumer
+  group found more than a dozen groups trading reviews for free products or payments.\"},{\"title\":\"Facebook
+  $725m settlement fund opens to US claims\",\"description\":\"Anyone who had a Facebook
+  account in the US between May 2007 and December 2022 can apply.\"},{\"title\":\"Buzzfeed
+  News to close as media firm cuts jobs\",\"description\":\"Buzzfeed is reducing its
+  workforce by 15% and shutting its news site.\"},{\"title\":\"Criminal Records Service
+  still disrupted 4 weeks after hack\",\"description\":\"People wishing to work with
+  children or gain emigration visas are still facing long delays.\"},{\"title\":\"Facebook
+  owner Meta sees latest layoffs begin\",\"description\":\"The social media giant
+  is under pressure after a sharp slowdown in its ads business last year.\"},{\"title\":\"Twitch:
+  Kai Cenat banned from streaming platform\",\"description\":\"The streamer holds
+  the record for most subscriptions, with more than 300,000 at its peak.\"},{\"title\":\"WhatsApp
+  and other messaging apps oppose 'surveillance'\",\"description\":\"WhatsApp and
+  messaging apps unite to urge the UK government to rethink the Online Safety Bill.\"},{\"title\":\"US
+  imposes $300m penalty over hard disk drive exports to Huawei\",\"description\":\"It
+  is the latest move by the US government to stop sales of sophisticated technology
+  to China.\"},{\"title\":\"Hikvision: Chinese surveillance tech giant denies leaked
+  Pentagon spy claim\",\"description\":\"A leaked US government document alleged that
+  Hikvision was likely enabling Chinese espionage.\"},{\"title\":\"Apple in Mumbai:
+  Tim Cook inaugurates first store in India\",\"description\":\"The Apple CEO greeted
+  customers who visited the store and posed for selfies with some of them.\"},{\"title\":\"TUC:
+  Government failing to protect workers from AI\",\"description\":\"Union group claims
+  using artificial intelligence to hire and fire staff could lead to greater discrimination.\"},{\"title\":\"Netflix
+  apologises as Love is Blind reunion show delayed\",\"description\":\"The special
+  episode was pre-recorded and aired in the US, but global viewers are left waiting.\"},{\"title\":\"Sony
+  World Photography Award 2023: Winner refuses award after revealing AI creation\",\"description\":\"Boris
+  Eldagsen said he used the image to test the competition and to create an \\\"open
+  discussion\\\".\"},{\"title\":\"Spotify makes 'difficult decision' to drop Heardle\",\"description\":\"The
+  move comes less than a year after the music streaming service bought the name-that-song
+  game.\"},{\"title\":\"Angry Birds: Sega agrees to buy video game maker Rovio\",\"description\":\"Japanese
+  gaming giant Sega will pay £625m for Rovio to \\\"strengthen its position\\\" in
+  gaming.\"},{\"title\":\"Twitter staff cuts leave Russian trolls unchecked\",\"description\":\"Troll
+  farms are thriving after Elon Musk wiped out the team fighting them.\"},{\"title\":\"Suspect
+  Nima Momeni held over Cash App founder's death\",\"description\":\"Bob Lee was reportedly
+  stabbed during a row while driving in San Francisco.\"},{\"title\":\"Elon Musk:
+  What it's like to interview the billionaire Twitter boss\",\"description\":\"The
+  interview covered everything from the challenges of artificial intelligence to Twitter's
+  current CEO.\"},{\"title\":\"Twitter and hate speech: What's the evidence?\",\"description\":\"Some
+  studies show abuse on the platform is increasing - but Elon Musk has pushed back.\"},{\"title\":\"Six
+  things we learned from Elon Musk interview\",\"description\":\"The world's second
+  richest man spoke for nearly an hour on a wide range of subjects.\"},{\"title\":\"Elon
+  Musk: Twitter owner changes BBC account's 'government funded' label\",\"description\":\"The
+  Twitter boss agreed to change a description from \\\"government funded media\\\"
+  to \\\"publicly funded\\\".\"},{\"title\":\"Elon Musk BBC interview: Twitter boss
+  on layoffs, misinfo and sleeping in the office\",\"description\":\"The Twitter boss
+  defends his running of the firm in a hastily-arranged BBC interview.\"},{\"title\":\"NPR
+  quits Twitter over 'government-funded' label\",\"description\":\"The not-for-profit
+  news outlet says the description is misleading and undermines its credibility.\"},{\"title\":\"AI:
+  China tech giant Alibaba to roll out ChatGPT rival\",\"description\":\"In recent
+  months, technology firms around the world have unveiled their own generative AI
+  chatbots.\"},{\"title\":\"Vodafone says UK broadband services back to normal\",\"description\":\"The
+  firm apologises after around 11,000 customers could not connect to the internet
+  for much of the day.\"},{\"title\":\"Elon Musk: Tesla to build new battery factory
+  in Shanghai\",\"description\":\"Elon Musk's company says the plant will be able
+  to produce 10,000 \\\"Megapack\\\" battery units a year.\"},{\"title\":\"The women
+  who left their jobs to code\",\"description\":\"Studies suggest women are less likely
+  to work in tech than men but some are bucking the trend.\"},{\"title\":\"World Startup
+  Convention: The India start-up gala that exploded into a scandal\",\"description\":\"An
+  event in India billed as the “world’s biggest funding festival” has been accused
+  of duping entrepreneurs.\"},{\"title\":\"Twitter: BBC objects to 'government funded
+  media' label\",\"description\":\"Elon Musk tells the BBC he believes it is one of
+  the \\\"least biased\\\" news outlets.\"},{\"title\":\"Netflix airs first Welsh
+  language drama, Dal y Mellt\",\"description\":\"Dal y Mellt becomes the first solely
+  Welsh-language production to be shown on the streaming giant.\"},{\"title\":\"Samsung
+  to cut chip production after profits plunge 96%\",\"description\":\"The memory chip-making
+  giant reports its worst profit since the 2009 financial crisis.\"},{\"title\":\"ChatGPT:
+  Mayor starts legal bid over false bribery claim\",\"description\":\"Brian Hood says
+  chatbot ChatGPT spread false information about him serving time in prison.\"},{\"title\":\"Bob
+  Lee dead: Cash App founder dies after San Francisco stabbing\",\"description\":\"The
+  43-year-old tech guru died after being stabbed on a San Francisco street, his family
+  says.\"},{\"title\":\"Genesis Market: Popular cybercrime website shut down by police\",\"description\":\"Genesis
+  Market allowed online fraudsters to buy passwords and other personal data for less
+  than $1.\"},{\"title\":\"Amazon closing UK-based online shop Book Depository\",\"description\":\"The
+  announcement was met with sadness by many of its customers from around the world.\"},{\"title\":\"Terry
+  Gou: Foxconn founder in fresh run for Taiwan presidency\",\"description\":\"Terry
+  Gou is aiming to be nominated from the Kuomintang, which traditionally favours close
+  ties with China.\"},{\"title\":\"TikTok fined £12.7m for misusing children's data\",\"description\":\"The
+  data regulator finds TikTok \\\"did not do enough\\\" to check the ages of who was
+  using their platform.\"},{\"title\":\"Martha Lane Fox warns against hysteria over
+  AI\",\"description\":\"The tech pioneer told the BBC we should see artificial intelligence
+  as an opportunity.\"},{\"title\":\"Virgin Orbit: Richard Branson's rocket firm files
+  for bankruptcy\",\"description\":\"The satellite launch company has failed to secure
+  new investment after a rocket launch failed.\"},{\"title\":\"Twitter's blue ticks
+  disappear as Musk attacks NY Times\",\"description\":\"The New York Times Twitter
+  account has lost its blue tick after it said it would not pay to stay verified.\"},{\"title\":\"Mobile
+  phone inventor made first call 50 years ago\",\"description\":\"Marty Cooper, who
+  made the first mobile phone call in 1973, says modern devices are \\\"suboptimal\\\".\"},{\"title\":\"ChatGPT
+  banned in Italy over privacy concerns\",\"description\":\"The country's data-protection
+  regulator has serious privacy concerns over the technology.\"},{\"title\":\"Watch
+  UK emergency alert go off (again, or if you missed it)\",\"description\":\"A look
+  at the UK-wide emergency alert in case you missed it.\"},{\"title\":\"Watch: BBC
+  News' interview with Elon Musk in full\",\"description\":\"The interview, aired
+  live from Twitter HQ, covered mass layoffs, misinformation and his work habits.\"},{\"title\":\"Watch:
+  Elon Musk's unexpected BBC interview... in 90 seconds\",\"description\":\"Musk talks
+  about the \\\"pain\\\" of owning Twitter and the BBC's objection to being labelled
+  \\\"government funded\\\".\"},{\"title\":\"The wedding tech now at the heart of
+  couples' nuptials\",\"description\":\"A growing number of brides and grooms are
+  embracing technology for their big day.\"},{\"title\":\"The tech entrepreneur betting
+  he can get younger\",\"description\":\"Millions of dollars are being poured into
+  research to find ways of making lives longer and healthier.\"},{\"title\":\"How
+  LinkedIn is changing and why some are not happy\",\"description\":\"LinkedIn's reputation
+  for being dry and corporate is changing but not all users like the more personal
+  tone.\"},{\"title\":\"How artificial intelligence is matching drugs to patients\",\"description\":\"Health-tech
+  firms around the world are increasingly using AI to help tailor drugs for patients.\"},{\"title\":\"Meet
+  the hacker armies on Ukraine's cyber front line\",\"description\":\"How links between
+  ‘hacktivists’ and official military are becoming blurred on both sides in the war.\"},{\"title\":\"The
+  plan to make a giant hot water bottle underground\",\"description\":\"Hot water
+  can be stored underground and the heat used when needed to keep buildings warm.\"},{\"title\":\"Why
+  robotic worms could one day dig beneath your feet\",\"description\":\"Simulating
+  an earthworm's movement is difficult, but could have very useful real-world applications.\"},{\"title\":\"A
+  nutty solution for cleaner stoves and barbecues\",\"description\":\"Cleaner fuels
+  for cooking could improve health and be better for the environment.\"},{\"title\":\"The
+  other Chinese apps taking the US and UK by storm\",\"description\":\"Four out of
+  the top 10 most downloaded free mobile apps in the US and UK are Chinese-owned.\"},{\"title\":\"Would
+  you open up to a chatbot therapist?\",\"description\":\"AI-powered chatbots are
+  now sophisticated enough that they are starting to be used for therapy.\"},{\"title\":\"Friend
+  or foe: Can computer coders trust ChatGPT?\",\"description\":\"The artificial intelligence
+  ChatGPT can write computer code, but its help comes with many potential problems.\"},{\"title\":\"The
+  tech helping driverless cars see round corners\",\"description\":\"A trial in London
+  used existing street cameras to help an autonomous car navigate city streets.\"},{\"title\":\"Crewless
+  container ships appear on the horizon\",\"description\":\"Autonomous container ships
+  are undergoing trials with crewless voyages planned in the next two years.\"},{\"title\":\"‘I
+  left teaching to train as a heat pump engineer’\",\"description\":\"Heat pumps could
+  radically cut household CO2 emissions, but there's a shortage of qualified installers.\"},{\"title\":\"The
+  revolution underway in India's diamond industry\",\"description\":\"India's long
+  history with diamonds enters a new chapter as lab-grown versions of the gem take
+  off.\"},{\"title\":\"Could waste plastic become a useful fuel source?\",\"description\":\"A
+  process that turns waste plastic and CO2 into fuel has been developed at Cambridge
+  University.\"},{\"title\":\"Is there a better way to insulate our draughty homes?\",\"description\":\"Aerogel
+  is described as the most effective insulating material known to science, so why
+  isn't it used more?\"}],\"id\":\"bbc-tech\",\"updatedAt\":1682304710995}\n\n"
+mashable: "data: {\"headlines\":[{\"title\":\"'Quordle' today: Here are the answers
+  and hints for April 24\",\"description\":\"If Quordle is a little too challenging
+  today, you've come to the right place for hints. There aren't just hints here, but
+  the whole Quordle solution. Scroll to the bottom of this page, and there it...\"},{\"title\":\"'Succession'
+  Season 4, episode 5: Breaking down the GoJo deal\",\"description\":\"Following the
+  sudden death of patriarch Logan Roy (Brian Cox) and his equally shocking funeral,
+  the Roy kids are back in the family business. In the fifth episode of this fourth
+  (and last) season o...\"},{\"title\":\"'Succession' Season 4, episode 5: Why did
+  some people escape the 'kill list'?\",\"description\":\"So did the right Roys take
+  over? Judging by Succession Season 4, episode 5, which sees a tense renegotiation
+  of the deal Logan Roy (Brian Cox) initially struck with Lukas Matsson (Alexander
+  Skarsgå...\"},{\"title\":\"The NBA playoffs have been defined by one thing: nut
+  shots\",\"description\":\"Somehow a primary storyline of the NBA playoffs is the
+  same as the subject of viral videos in the early days of YouTube: nut shots. That's
+  right, hits to the groin have been a central part of the o...\"},{\"title\":\"What
+  is leaving HBO Max on April 30?\",\"description\":\"It's the ritual we all know
+  by now — you've to make sure you watch your favorite movies and shows before they
+  disappear from a streaming platform. The end of this month, April 30, marks a big
+  switc...\"},{\"title\":\"Language learning for life with Rosetta Stone is just $162\",\"description\":\"TL;DR:
+  Want to make your multilingual dreams a reality? You can score a lifetime subscription
+  to Rosetta Stone (all languages) for just $161.64 instead of $299 when you use the
+  code VACATION15 at c...\"},{\"title\":\"Identify thousands of plants with NatureID
+  for $20\",\"description\":\"TL;DR: Want to become a better plant parent? As of April
+  23, you can get a lifetime subscription to the NatureID Plant Identification Premium
+  Plan for just $19.99 instead of $59.99. That's a saving...\"},{\"title\":\"Get this
+  secure software development bundle for only $20\",\"description\":\"TL;DR: As of
+  April 23, get the 2023 Complete Secure Software Development Bundle for just $19.99
+  — that's 99% off the original price of $2,360. As the world continues to go digital,
+  there is growing...\"},{\"title\":\"Save $300 on a refurbished iPad Air\",\"description\":\"TL;DR:
+  As of April 23, score a refurbished iPad Air for only $179.99 — that's 63% off the
+  regular price of $499. There's a reason why the iPad remains undefeated in the tablet
+  market even after mor...\"},{\"title\":\"Tidy your charging setup with this 6-in-1
+  station\",\"description\":\"TL;DR: As of April 23, get the ChargeUp 6-in-1 Wireless
+  Charging Station with Watch Charger for just $59.99 — that's $140 off the regular
+  price of $199.With spring cleaning in full swing, you may b...\"},{\"title\":\"Dyson
+  Airwrap vs Shark FlexStyle: Here's which hot air tool is worth your money\",\"description\":\"To
+  dupe or not to dupe? This is the question one must ask themselves when looking at
+  the $600 Dyson Airwrap, a hair tool with plenty of hype and a hefty price tag to
+  match. Though there are plenty ...\"},{\"title\":\"Why 'Renfield's narcissistic
+  count fits perfectly into Dracula's film history\",\"description\":\"Dracula is
+  what you might call a bona fide cinematic icon. From Bela Lugosi’s official celluloid
+  origination of Bram Stoker's vampire in 1931 to Christopher Lee's outings as Dracula
+  in the Hammer H...\"},{\"title\":\"Save 85% on lifetime access to Microsoft Office\",\"description\":\"TL;DR:
+  A lifetime license to Microsoft Office Professional 2021 is on sale for £40.09,
+  saving you 85% on list price.If you've recently made changes to your tech arsenal,
+  chances are there's one thi...\"},{\"title\":\"'Wordle' today: Here's the answer,
+  hints for April 23\",\"description\":\"Ah, Sunday at last. And what better way to
+  relax than with a brand new Wordle? We're here as always to help guide the way with
+  our expert Wordle advice and the solution.If you prefer to just be tol...\"},{\"title\":\"'Quordle'
+  today: Here are the answers and hints for April 23\",\"description\":\"If Quordle
+  is a little too challenging today, you've come to the right place for hints. There
+  aren't just hints here, but the whole Quordle solution. Scroll to the bottom of
+  this page, and there it...\"},{\"title\":\"Twitter gives dril a spite checkmark\",\"description\":\"The
+  latest speed bump in the rollout of Twitter's revamped verification policy under
+  new owner Elon Musk is here: Spite checkmarks. Twitter is capriciously awarding
+  unwanted blue verification badge...\"},{\"title\":\"Twitter has a surprising 'no
+  refunds' policy for rejected gold check applicants\",\"description\":\"With the
+  purge of verified legacy checkmarks, Twitter CEO Elon Musk's attempt to strong-arm
+  users into buying Twitter Blue has mostly fallen flat, likely placing Musk's goal
+  of profitability furthe...\"},{\"title\":\"Pew survey: 'AI will impact jobs, but
+  not mine.'\",\"description\":\"Americans think artificial intelligence will majorly
+  impact workers, but not them, according to a recent Pew survey. A Pew Research Center
+  report titled \\\"AI in Hiring and Evaluating Workers: What A...\"},{\"title\":\"Twitter
+  Blue nets 28 signups so far since legacy checkmark purge\",\"description\":\"The
+  removal of legacy users' verified checkmarks finally happened on Thursday and the
+  aftermath was unnerving for the platform. Early results culled from independent
+  researchers about a day after t...\"},{\"title\":\"After NPR left the platform,
+  Twitter removed all 'government-funded media' labels\",\"description\":\"Twitter
+  has removed labels describing certain media outlets as \\\"government funded\\\"
+  or \\\"state affiliated,\\\" after falsely implying they were government propaganda
+  machines.Fierce backlash from editor...\"},{\"title\":\"The SpaceX Starship explosion
+  was deliberate\",\"description\":\"About four minutes after SpaceX's gargantuan
+  rocket lifted from its Texas launch pad, it burst into a fireball over the Gulf
+  of Mexico, never reaching space. Though SpaceX hasn't shared many detail...\"},{\"title\":\"A
+  daring company is about to try landing on the moon. You can watch it.\",\"description\":\"Other
+  space ventures and spacefaring nations have tried and failed before.Undeterred by
+  previous flops, a Japanese company will attempt to land a robotic spacecraft on
+  the moon. If it succeeds, isp...\"},{\"title\":\"The 13 best tweets the week Elon
+  Musk killed Twitter's legacy checkmarks\",\"description\":\"Elon Musk actually did
+  it. Twitter stripped stripped verified users of their blue checks on Thursday (April
+  20). The only people left with blue checks, barring any mixups typical of Musk's
+  Twitter,...\"},{\"title\":\"The farthest-away pictures of Earth ever taken\",\"description\":\"NASA's
+  exploration robots have rumbled around Mars, swooped around Saturn, and flown well
+  beyond the planets, into interstellar space. But the space agency's engineers often
+  direct their machines t...\"},{\"title\":\"Get an amazing price on the best PlayStation
+  5 bundle, plus more gaming deals this week\",\"description\":\"\\n   UPDATE: Apr.
+  22, 2023, 5:00 a.m. EDT This list has been updated with the latest and greatest
+  gaming deals across the internet. Here's a quick look:\\n\\n\\n    \\n        Overview\\n
+  \   \\n            \\n   ...\"},{\"title\":\"The hai infusions smart showerhead
+  is a cool upgrade that's not worth the cost\",\"description\":\"I’m not sure about
+  you, but showering is usually an unparalleled part of my day. It’s an opportunity
+  to wipe away the day thus far and emerge feeling fresh. Taking a shower is one of
+  those things t...\"},{\"title\":\"Grove Co. makes eco-friendly cleaning product
+  swaps easy\",\"description\":\"I’ve always been a reusable soap dispenser girly,
+  but my issue is that most soap refills come in big plastic containers — which feels
+  like it defeats the whole purpose of using refillable dispenser...\"},{\"title\":\"Did
+  you catch that comedian cameo in 'Beau Is Afraid'?\",\"description\":\"To say Beau
+  Is Afraid is a wild ride is an understatement.Ari Aster's latest film, which Mashable's
+  Kristy Puchko describes as a \\\"three-hour-long panic attack as cinema,\\\" depicts
+  anxiety-riddled Be...\"},{\"title\":\"Grow professionally with a lifetime subscription
+  to Upskillist\",\"description\":\"TL;DR: As of April 22, get a lifetime membership
+  to Upskillist for only $99 — that's 92% off the original price of $1,299.With new
+  technologies emerging and the job market constantly evolving and b...\"},{\"title\":\"This
+  app analyzes stocks, and a lifetime subscription is only $120\",\"description\":\"TL;DR:
+  As of April 22, get a Pro Plan Lifetime Subscription to Tykr Stock Screener for
+  just $119.99 — that's 86% off the regular price of $900.Have you wanted to pick
+  up a new skill? How about one ...\"},{\"title\":\"Editing PDFs in Windows is a breeze
+  with this app, now just $40\",\"description\":\"TL;DR: As of April 22, get the Premium
+  License to PDF Reader Pro for Windows for just $39.99 — that's 33% off the original
+  price of $59.99. No matter how long you've been in the workforce or dealt ...\"},{\"title\":\"Get
+  two 4K drones for the price of one — just $150\",\"description\":\"TL;DR: As of
+  April 22, get the Alpha Z PRO 4K + Flying Fox 4K Wide-Angle Dual-Camera Drone Bundle
+  for just $149.99 — that's 62% off the original price of $398. Intimidated by drones?
+  These cool gad...\"},{\"title\":\"Score 6 essential Apple accessories for only $99.99\",\"description\":\"TL;DR:
+  As of April 22, you can get this Apple gift box for the iPhone 14 Pro for $99.99
+  — that's 35% off the regular sale price of $154.99. An iPhone is an expensive investment,
+  but that doesn't me...\"},{\"title\":\"Earth's core is wilder than you can imagine\",\"description\":\"One
+  thousand, eight hundred miles beneath your feet lies a giant, blazing-hot ball of
+  metal. It's the innermost part of our planet, Earth's core. It has a profound impact
+  on your life, though none ...\"},{\"title\":\"Get Bose headphones for $100 off,
+  plus more of the best headphones on sale this weekend\",\"description\":\"\\n   UPDATE:
+  Apr. 22, 2023, 5:00 a.m. EDT This post has been updated with the latest headphone
+  deals from Amazon, Best Buy, and more.\\n\\n\\n    \\n        Overview\\n    \\n
+  \           \\n        \\n            \\n...\"},{\"title\":\"A ton of QLED TVs are
+  on sale this weekend — here are the best deals\",\"description\":\"\\n   UPDATE:
+  Apr. 22, 2023, 5:00 a.m. EDT This story has been updated with the latest 4K and
+  8K TV deals. Check out our favorites below:\\n\\n\\n    \\n        Our top picks
+  this week:\\n    \\n            \\n   ...\"},{\"title\":\"Best laptop deals: Get
+  $1,300 off an MSI laptop for creators, $230 off an eco-friendly Acer PC, and more\",\"description\":\"\\n
+  \  UPDATE: Apr. 22, 2023, 5:00 a.m. EDT This story has been updated with the latest
+  and greatest laptop deals.\\n\\n\\n    \\n        Featured picks:\\n    \\n            \\n
+  \       \\n            \\n              ...\"},{\"title\":\"7 of the best reusable
+  water bottles for Earth Day\",\"description\":\"We all use them: Single-use plastic
+  bottles are readily available and inexpensive to buy, so it's easy to see why so
+  many people drink water from them all the time. In fact, the entire world goes t...\"},{\"title\":\"How
+  to recycle Amazon packaging (yes, all of it)\",\"description\":\"Amazon has become
+  an increasingly ubiquitous part of our lives, as more and more people receive weekly
+  — and even daily — packages from the company. But as these packages pile up on doorsteps
+  all o...\"},{\"title\":\"This ethical hacking training bundle is beginner-friendly
+  and on sale for under £40\",\"description\":\"TL;DR: The Complete Ethical Hacking
+  Bootcamp 2023 is on sale for £36.09, saving you 97% on list price.The demand for
+  cybersecurity professionals is still growing, and one standout skill employers m...\"},{\"title\":\"How
+  to livestream the London Marathon for free\",\"description\":\"\\n    \\n        Stream
+  content in other locations with a VPN. Shop these deals:\\n    \\n            \\n
+  \       \\n            \\n                \\n\\n            \\n            \\n                \\n
+  \                 ...\"},{\"title\":\"'Wordle' today: Here's the answer, hints for
+  April 22\",\"description\":\"You're here! You made it! It's Saturday, and a new
+  Wordle welcomes you to the weekend. We're here as always to help guide the way with
+  our expert Wordle advice and the solution.If you prefer to jus...\"},{\"title\":\"'Quordle'
+  today: Here are the answers and hints for April 22\",\"description\":\"If Quordle
+  is a little too challenging today, you've come to the right place for hints. There
+  aren't just hints here, but the whole Quordle solution. Scroll to the bottom of
+  this page, and there it...\"},{\"title\":\"Every surprise song Taylor Swift has
+  performed on 'The Eras Tour' (so far)\",\"description\":\"Ten nights of The Eras
+  Tour and still no surprise Reputation songs! In case you haven't heard yet, Swift
+  adds two surprise songs to her Eras Tour setlist each night, to keep things fresh
+  and fans o...\"},{\"title\":\"Dril and other Twitter power users begin campaign
+  to 'Block the Blue' paid checkmarks\",\"description\":\"On Thursday, April 20, Elon
+  Musk made a rare move: He delivered on a promise.Since acquiring Twitter in October
+  of last year, Musk has been open about his disdain for Twitter's old verification
+  sys...\"},{\"title\":\"How to remove Snapchat's My AI from your Chat feed\",\"description\":\"Bad
+  news: If you aren't a Snapchat+ subscriber, you can't remove My AI from your Chat
+  feed. Snapchat announced My AI's global rollout Wednesday (April 19) and users are
+  already fed up with its plac...\"},{\"title\":\"Save on refurbished tech with these
+  Earth Week deals\",\"description\":\"Looking to shop for some discounted tech? Snag
+  deals on refurbished gadgets like earbuds, tablets, and smartwatches just in time
+  for Earth Day. Shop our favorite picks:BEST REFURBISHED EARBUDS: The...\"},{\"title\":\"Best
+  streaming deals this week: A Netflix loophole from Verizon and more\",\"description\":\"\\n
+  \  UPDATE: Apr. 22, 2023, 5:00 a.m. EDT This post has been updated with the latest
+  streaming deals and pricing on streaming service bundles.\\n\\n\\n    \\n        Our
+  top picks this week:\\n    \\n          ...\"},{\"title\":\"The themes in 'Chevalier'
+  that still ring true today\",\"description\":\"Kelvin Harrison Jr, Samara Weaving
+  and Lucy Boynton discuss the universal themes presented in Chevalier. The film premieres
+  in theaters April 21st. \"},{\"title\":\"Take 30% off cleaning essentials to revitalize
+  your home for spring\",\"description\":\"Spring has officially sprung, so it's probably
+  time to freshen up your living space. Check out these deals on Amazon's cleaning
+  essentials to help you revitalize your home without breaking the bank...\"},{\"title\":\"Google
+  Bard introduces new features for generating and debugging code\",\"description\":\"Google's
+  AI chatbot Bard now comes with features to help developers write code. In a blog
+  post on Friday, Google announced new capabilities for its generative AI tool including
+  code generation, deb...\"},{\"title\":\"Save big on our favorite eco-friendly products
+  with Earth Day deals\",\"description\":\"\\n   UPDATE: Apr. 21, 2023, 12:00 p.m.
+  EDT This story has been updated with new Earth Day deals. \\n\\nThe Lomi composter
+  diverts your home's food waste from the landfill — $359.20 $499.95 (save $140.75...\"},{\"title\":\"Get
+  up to 50% off of your fave sex toys during Lovehoney's Big Brand Event\",\"description\":\"Not
+  that you ever need a reason to buy more sex toys, but Lovehoney is hosting its Big
+  Brand Event where you can score up to 50% off of the biggest and best names in the
+  business including Womanize...\"},{\"title\":\"Make cleaning a breeze with $200
+  off the powerful Dyson V10 cordless vacuum\",\"description\":\"SAVE $180: As of
+  April 21, the Dyson V10 Absolute cordless vacuum is on sale for $329.99 at Walmart.
+  That's a savings of 37%.\\n    \\n                    \\n                                    \\n\\n
+  \      ...\"},{\"title\":\"LGBTQ centers leave Twitter following removal of hateful
+  conduct protections\",\"description\":\"Dozens of regional LGBTQ community centers
+  are deactivating their Twitter accounts today, decrying recent policy changes despite
+  the rise of hate speech and calling on the app to do more to protect...\"},{\"title\":\"'Suga:
+  Road to D-Day' review: How do you find a new dream to believe in?\",\"description\":\"Min
+  Yoongi's been planning this for three years. In tandem with the release of his newest
+  album, D-Day, Min Yoongi (aka Suga of BTS and Agust D, his solo moniker) has released
+  a documentary explori...\"},{\"title\":\"The 'Beau is Afraid' cast reveal why they
+  wanted to work with Ari Aster\",\"description\":\"Parker Posey, Nathan Lane and
+  Amy Ryan discuss what it is about Ari Aster's movies that drew them to working on
+  Beau is Afraid. Beau is Afraid is in theaters April 21st. \"},{\"title\":\"Why you
+  should consider going green with your gadgets this Earth Day and every day\",\"description\":\"We’ve
+  all been there before — knee-deep in packaging materials after unboxing a new electronic
+  gadget. Cardboard, vacuum-formed plastic, and mountains of styrofoam seem to be
+  the norm. While these ...\"},{\"title\":\"The most watched movies and TV of the
+  week involve cocaine, cannibals, and comedy\",\"description\":\"So, what's everyone
+  been watching this week? Hmmmm?Just to get a sense of the most popular movies and
+  TV shows people are streaming, we've streaming aggregator Reelgood, which gathers
+  viewership nu...\"},{\"title\":\"WhatsApp lets you save disappearing messages (with
+  a catch)\",\"description\":\"WhatsApp has introduced a significant update to disappearing
+  messages that allows users to hang onto these fleeting texts for later — with a
+  caveat. Meta CEO Mark Zuckerberg announce the new featur...\"},{\"title\":\"Everything
+  you can expect to see at Google I/O 2023\",\"description\":\"The next batch of big
+  Google announcements is almost here.On May 10, Google will convene for its annual
+  I/O conference in-person for the first time since before COVID. When all is said
+  and done, we...\"},{\"title\":\"Diddy 'Carpool Karaoke' features a genuinely hilarious
+  discussion of lyrics\",\"description\":\"The Late Late Show is coming to an end
+  soon, so Carpool Karaoke episodes will soon be Apple TV+ only.This means James Corden's
+  late night show is certainly cramming some big ones in before the last...\"},{\"title\":\"Since
+  the first Earth Day, the planet’s CO2 levels have gone off the rails\",\"description\":\"Update
+  April 21, 2023: Earth's atmospheric carbon dioxide levels averaged over 417 ppm
+  in 2022, and even recently reached a daily reading of over 424 ppm. When this story
+  first published in 2019, C...\"},{\"title\":\"'Dead Ringers' review: Rachel Weisz
+  meets David Cronenberg in tale of twisted twins\",\"description\":\"Why make a 1988
+  David Cronenberg film into a six-episode-long miniseries?That was my main question
+  — and concern — about Prime Video's Dead Ringers, a series based on the Cronenberg
+  film of the sam...\"},{\"title\":\"'Evil Dead Rise' review: Plenty of gore in this
+  horror sequel, but is that enough?\",\"description\":\"The Deadites are back, baby!
+  Wave hello with a severed hand to Evil Dead Rise, the fifth film in the Sam Raimi-fueled
+  franchise which definitively answers the question, \\\"Which is the horror series
+  ...\"},{\"title\":\"Learn American Sign Language with this $20 bundle\",\"description\":\"TL;DR:
+  As of April 21, you can sign up for the All-in-One American Sign Language Bundle
+  for only $19.97 — that's just $1.53 per course.American Sign Language (ASL) is a
+  fun, interesting, and useful...\"},{\"title\":\"This sleek magnetic iPhone charger
+  is totally wireless and only $40\",\"description\":\"TL;DR: As of April 21, you
+  can pick up the Speedy Mag Wireless iPhone Charger for just $39.99 instead of $119
+  in your choice of black, white, or baby blue. That's a savings of 66%.When you need
+  you...\"},{\"title\":\"Want piano lessons? There's an app for that — and it's $160
+  off.\",\"description\":\"TL;DR: Through April 23, you can sign up for Skoove Premium
+  Piano Lessons for just $139.97 instead of $299.99 — that's a savings of 53% on a
+  lifetime subscription.Dreaming of tickling the ivories? ...\"},{\"title\":\"Slice
+  and dice like the pros with this set of Japanese knives, now $350 off\",\"description\":\"TL;DR:
+  As of April 21, you can cut 58% off the price of the Ryori Shefu Set of Japanese
+  Folded Steel Chef Knives. Grab a set of five for just $249.99 instead of $599.When
+  it comes to slicing and di...\"},{\"title\":\"Frank Ocean's Coachella set and the
+  breakdown of the fan-artist relationship\",\"description\":\"Frankchella is over
+  and Coachella Weekend Two hasn't even started. His fans just wanna talk.Destined
+  to make waves, it was Ocean's first live performance in six years, three years after
+  he was slat...\"},{\"title\":\"'Messiah of Evil' turns 50: The mess and miracle
+  behind this horror gem\",\"description\":\"\\\"They say that nightmares are dreams
+  perverted.\\\" That’s the opening line of the surreal 1973 supernatural horror film
+  Messiah of Evil, which turns 50 this week. Before the incredible screenwriting ...\"},{\"title\":\"'Judy
+  Blume Forever' review: A literary icon gets a triumphant, timely tribute\",\"description\":\"Not
+  even two minutes into the new documentary Judy Blume Forever, Judy Blume looks up
+  from a copy of her novel Deenie. She's just finished reading one of the novel's
+  most famous and most controvers...\"},{\"title\":\"How to watch Premier League soccer
+  in the U.S.\",\"description\":\"\\n    \\n        The 2022-23 Premier League season
+  goes through May 28. Here are the best ways to watch:\\n    \\n            \\n        \\n
+  \           \\n                \\n\\n            \\n            \\n           ...\"},{\"title\":\"Stasher
+  vs. Ziploc Endurables: What are the best reusable food storage bags?\",\"description\":\"\\\"Eco-friendly
+  Ziploc bags\\\" was an oxymoron until mid-2022, when the food storage bag brand
+  introduced a new line of Endurables containers and pouches made from silicone. But
+  this isn't the first ti...\"},{\"title\":\"Best gay dating apps for hookups, relationships,
+  and everything in between\",\"description\":\"Most people have at least one horror
+  story about online dating. It's a rite of passage that single people love to hate.But
+  the horror stories look a little different for members of the LGBTQ commun...\"},{\"title\":\"Bruvi
+  brewer system: The new and improved Keurig?\",\"description\":\"So, I’ll be honest
+  with you. I’ve had the same coffee maker since college, and it wasn’t even mine
+  to begin with. My old roommate moved out, asked if I wanted to keep hers, and it
+  stuck with me for...\"},{\"title\":\"Tobey Maguire's 'Spider-Man' films are coming
+  to Disney+\",\"description\":\"If Spider-Man: No Way Home's universe-hopping convention
+  of Spider-Men left you missing the webheads of movies past, we have some good news.
+  Disney+ will soon introduce a couple of well-loved Peter...\"},{\"title\":\"Elon
+  Musk is 'personally' paying for certain blue ticks to troll celebs\",\"description\":\"You
+  can't make this up: First, Twitter CEO and owner Elon Musk said the company would
+  remove legacy blue checkmarks for users who didn't cough up $8 per month for the
+  Twitter Blue subscription tier...\"},{\"title\":\"'Yellowjackets' Season 2, episode
+  5: Javi's drawing is a big clue\",\"description\":\"Amid all the mysteries of Season
+  2 of Yellowjackets is a giant question mark pointing right at Javi (Luciano Leroux). Despite
+  being stranded alone in the middle of a forest in the freezing winter, ...\"},{\"title\":\"'Yellowjackets':
+  We think we know whose body is being carried in the trailer\",\"description\":\"We're
+  a good chunk into Yellowjackets Season 2 now, and that can only mean one thing:
+  Time to go back to the trailer and comb through it again for clues we may have missed.The
+  standout shot, upon r...\"},{\"title\":\"'Mrs Davis' review: Relentlessly original,
+  but more trick than miracle\",\"description\":\"Mrs. Davis, the TV show, has everything:
+  Schrodinger’s cat, enormous quantities of neon green whale sedative, a love triangle
+  with Jesus, stage magicians, a sword the size of a pickup truck, flawed...\"},{\"title\":\"'Wordle'
+  today: Here's the answer, hints for April 21\",\"description\":\"You're here! You
+  made it! It's Friday, and a new Wordle welcomes you to the weekend. We're here as
+  always to help guide the way with our expert Wordle advice and the solution.If you
+  prefer to just ...\"},{\"title\":\"Save 94% on a lifetime subscription to Koofr
+  Cloud Storage\",\"description\":\"TL;DR: A lifetime subscription to Koofr Cloud
+  Storage (100GB) is on sale for £24.05, saving you 94% on list price.Sick of being
+  notified that your device's memory is full? Not much is worse than ha...\"},{\"title\":\"15
+  of the best MIT courses you can take online for free\",\"description\":\"TL;DR:
+  You can find a wide range of free online courses from MIT on edX, meaning you can
+  learn all about Python programming, finance, machine learning, and more without
+  spending anything.MIT leads ...\"},{\"title\":\"'Quordle' today: Here are the answers
+  and hints for April 21\",\"description\":\"If Quordle is a little too challenging
+  today, you've come to the right place for hints. There aren't just hints here, but
+  the whole Quordle solution. Scroll to the bottom of this page, and there it...\"},{\"title\":\"Florida
+  students 'Walkout 2 Learn': How to join their education revolution\",\"description\":\"Florida
+  students are taking a half-day Friday, not in anticipation of the weekend, but to
+  walk out in protest of recent moves by Florida Gov. Ron DeSantis and state legislators
+  to limit school curr...\"},{\"title\":\"Google will let advertisers use AI to create
+  ad campaigns\",\"description\":\"Google has no intention of jumping off the AI train
+  now.The Financial Times reported on Thursday that Google plans on incorporating
+  the same AI tech powering the Bard chatbot into its advertising t...\"},{\"title\":\"TikTok
+  is banning all climate change denial content\",\"description\":\"Happy Earth Day!
+  TikTok is making moves to ban all climate change denial content on its platform.Starting
+  April 21, TikTok will \\\"begin to ramp up enforcement\\\" of its new climate change
+  misinformati...\"},{\"title\":\"Get ready: SpaceX Starship will try to fly again
+  soon\",\"description\":\"Elon Musk lost his claim as having the most powerful space-worthy
+  rocket when NASA blasted its own mega rocket to the moon in November.But the SpaceX
+  founder could win back the title with his compa...\"},{\"title\":\"This Eye Massager
+  is the ultimate spa tool — Future Blink\",\"description\":\"Enjoy a spa-like treatment
+  from the comfort of your couch. Renpho The Eyeris 1 Eye Massager is the ultimate
+  spa tool to relieve eye strain, puffiness, and dry eyes. Pull this futuristic goggle
+  cont...\"},{\"title\":\"The Flux transparent keyboard comes with an adaptive display
+  — Future Blink\",\"description\":\"Meet the keyboard of the future. The Flux Keyboard
+  has a full HD display behind its transparent keys. Merging the versatility of touchscreen
+  with the speed of tactile keyboards the HD display autom...\"},{\"title\":\"Yes,
+  SKIMS' TikTok-viral dress and bodysuits made me look snatched\",\"description\":\"I
+  do not keep up with the Kardashians. I do, however, spend a significant amount of
+  time scrolling through TikTok, which is populated by countless users who love Kim
+  Kardashian's SKIMS shapewear. T...\"},{\"title\":\"How to screenshot an entire webpage
+  on iPhone\",\"description\":\"Today in \\\"things we learned on the internet,\\\"
+  TikTok users are sharing a handy iPhone screenshotting tip.You may think you already
+  know how to screenshot on an iPhone, but did you know you could sc...\"},{\"title\":\"Rihanna,
+  Taylor Swift among the few celebrities paying Twitter to keep their blue checkmarks\",\"description\":\"It's
+  4/20. Elon Musk is removing the blue checkmarks from the around 420,000 \\\"legacy
+  verified\\\" accounts that were granted the icon through Twitter's now-defunct identity
+  verification process.From t...\"},{\"title\":\"Bye, bye blue checks: Twitter wipes
+  legacy verified badges from the platform\",\"description\":\"Chief Twit Elon Musk
+  promised that Thursday — which just happened to be 4/20, you know, the stoner holiday
+  — legacy blue checkmarks would disappear from Twitter. That means people who were
+  actually...\"},{\"title\":\"Canva AI can turn photos into a professional headshot\",\"description\":\"The
+  girlbosses have spoken. Have you ever taken a gorgeous and stunning photo that could
+  double as a LinkedIn headshot, but your shirt isn't networking appropriate? The
+  corporate babes on TikTok ha...\"},{\"title\":\"Get big discounts on Anker power
+  banks and more handy tech at Amazon right now\",\"description\":\"SAVE UP TO $40
+  on Anker portable chargers, power banks, and compact power strips as of April 20
+  thanks to multiple coupons at Amazon.\\n    \\n                    \\n                                    \\n...\"},{\"title\":\"Stock
+  up on discounted Instant brand air fryers and toaster ovens at Amazon\",\"description\":\"If
+  you're all about cooking efficiently, there are plenty of gadgets to help make that
+  a reality, including air fryers and toaster ovens. They can save you hours of precious
+  time — and you don't ev...\"},{\"title\":\"The best dating sites for introverts,
+  wallflowers, and anyone hesitant to try online dating\",\"description\":\"Not shy?
+  Find yourself here by mistake? Perhaps you'd like our roundup of the best hookup
+  sites instead.Online dating is kind of the best thing that's ever happened to introverts.Now,
+  you can scan ...\"},{\"title\":\"The best VPN deals of the week: Save on ExpressVPN,
+  NordVPN, ProtonVPN, and more\",\"description\":\"\\n   UPDATE: Apr. 20, 2023, 11:45
+  a.m. EDT This story has been updated with the latest VPN deals.\\n\\n\\n    \\n
+  \       Featured picks:\\n    \\n            \\n        \\n            \\n                \\n\\n
+  \          ...\"}],\"id\":\"mashable\",\"updatedAt\":1682304713545}\n\n"
+techcrunch: "data: {\"headlines\":[{\"title\":\"Top 10 AI Tools in 2023 That Will
+  Make Your Life Easier\",\"description\":\" In this article, we explore the top 10
+  AI tools that are\\ndriving innovation and efficiency in various industries. These
+  tools are\\ndesigned to automate repetitive tasks, improve workflow, and incre...\"},{\"title\":\"Top
+  10 AI Content Generator & Writer Tools in 2022\",\"description\":\"Are you looking
+  for a way to create content that is both effective and efficient? If so, then you
+  should consider using an AI content generator. AI content generators are a great
+  way to create cont...\"},{\"title\":\"Beginner Guide to CJ Affiliate (Commission
+  Junction) in 2022\",\"description\":\"Image by vectorjuice on FreepikIn this CJ
+  Affiliate guide, I will share with you everything you need to get started on the
+  platform, I will give you an in-depth look at the network and how it works...\"},{\"title\":\"TOP
+  11 AI MARKETING TOOLS YOU SHOULD USE (Updated 2022)\",\"description\":\"   The marketing
+  industry is turning to artificial intelligence (AI) as a way to save time and execute
+  smarter, more personalized campaigns. 61% of marketers say AI software is the most
+  important a...\"},{\"title\":\"Most Frequently Asked Questions About Affiliate Marketing\",\"description\":\"There
+  are lots of questions floating around about how affiliate marketing works, what
+  to do and what not to do when it comes to setting up a business. With so much uncertainty
+  surrounding both pers...\"},{\"title\":\"What is Blockchain: Everything You Need
+  to Know (2022)\",\"description\":\"If you want to pay online, you need to register
+  an account and provide credit card information. If you don't have a credit card,
+  you can pay with bank transfer. With the rise of cryptocurrencies, t...\"},{\"title\":\"ProWritingAid
+  VS Grammarly: Which Grammar Checker is Better in (2022) ?\",\"description\":\"ProWritingAid
+  VS Grammarly:  When it comes to English grammar, there are two Big Players that
+  everyone knows of: the Grammarly and ProWritingAid. but you are wondering which
+  one to choose so here w...\"},{\"title\":\"Sellfy Review 2022: How Good Is This
+  Ecommerce Platform?\",\"description\":\" Are you searching for an ecomerce platform
+  to help you build an online store and sell products?In this Sellfy review, we'll
+  talk about how this eCommerce platform can let you sell digital products...\"},{\"title\":\"Ahrefs
+  vs SEMrush: Which SEO Tool Should You Use?\",\"description\":\"\\n\\nSEMrush and
+  Ahrefs are among\\nthe most popular tools in the SEO industry. Both companies have
+  been in\\nbusiness for years and have thousands of customers per month.\\n\\nIf
+  you're a professional SEO or...\"},{\"title\":\"Top 10 Best PLR(Private Label Rights)
+  \ Websites | Which One You Should Join in 2022?\",\"description\":\"Content creation
+  is one of the biggest struggles for many marketers and business owners. It often
+  requires both time and financial resources, especially if you plan to hire a writer.Today,
+  we have ...\"},{\"title\":\"Canva Review 2022: Details, Pricing & Features\",\"description\":\"Are
+  you looking for a new graphic design tool? Would you like to read a detailed review
+  of Canva? As it's one of the tools I love using. I am also writing my first ebook
+  using canva and publish it ...\"},{\"title\":\"Top 7 Best Wordpress Plugin Of All
+  Time\",\"description\":\" If you are looking for the best wordpress plugins, then
+  you are at the right place. Here is the list of best wordpress plugins that you
+  should use in your blog to boost SEO, strong your security a...\"},{\"title\":\"Ginger
+  VS Grammarly: Which Grammar Checker is Better in (2022) ?\",\"description\":\"Ginger
+  VS Grammarly: When it comes to grammar checkers, Ginger and Grammarly are two of
+  the most popular choices on the market. This article aims to highlight the specifics
+  of each one so that you ...\"},{\"title\":\"Most Frequently Asked Questions About
+  NFTs(Non-Fungible Tokens)\",\"description\":\" Non-fungible tokens (NFTs) are the
+  most popular digital assets today, capturing the attention of cryptocurrency investors,
+  whales and people from around the world. People find it amazing that some...\"},{\"title\":\"10
+  Best Chrome Extensions That Are Perfect for Everyone\",\"description\":\"Are you
+  a great Chrome user? That’s nice to hear. But first, consider whether or not there
+  are any essential Chrome extensions you are currently missing from your browsing
+  life, so here we're going...\"},{\"title\":\"Most Frequently Asked Questions About
+  \ Email Marketing\",\"description\":\"1. Why is email marketing important?Email
+  is the marketing tool that helps you  create a seamless, connected, frictionless
+  buyer journey. More importantly, email marketing allows you to build relat...\"},{\"title\":\"7
+  Free Websites Every Content Creator Needs to Know\",\"description\":\"Do you have
+  the desire to become a content creator, but not have the money to start? Here are
+  7 free websites every content creator needs to know.1.Exploding Topics (Trending
+  Topics)(Photo Credit:-...\"},{\"title\":\"Top 9 Free AI Tools That Make Your Life
+  Easier\",\"description\":\"Copy.aiPhoto:- Copy.aiFirst one on the list is copy.ai.
+  It is an AI based copy writer tool. Basically  what a copywriter tool does is, it
+  gives you content that you can post on your blog or video  ...\"}],\"id\":\"techcrunch\",\"updatedAt\":1682304714770}\n\n"

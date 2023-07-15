@@ -10,7 +10,9 @@ class Dashing.News extends Dashing.Widget
     @currentIndex = 0
 
   startCarousel: ->
-    setInterval(@nextComment, 8000)
+    interval = $(@node).attr('data-interval')
+    interval = "30" if not interval
+    setInterval(@nextComment, parseInt( interval ) * 1000)
 
   nextComment: =>
     headlines = @get('headlines')

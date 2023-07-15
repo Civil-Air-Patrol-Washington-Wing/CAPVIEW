@@ -1,0 +1,32 @@
+<script type='text/javascript'>
+$(function() {
+  // These settings override the defaults set in application.coffee. You can do this on a per dashboard basis.
+
+  Dashing.widget_base_dimensions = [208, 176]
+  Dashing.numColumns = 6
+});
+</script>
+
+
+<% content_for :title do %>Welcome to McChord Composite Squadron<% end %>
+<div class="gridster">
+  <ul>
+  <li data-row="1" data-col="1" data-sizex="5" data-sizey="1">
+  <div data-id="image" data-view="Image" data-title="McChord Banner" data-image="/mcchord_cp_banner.jpg"></div>
+</li>
+    <li data-row="1" data-col="6" data-sizex="1" data-sizey="1">
+  <div data-view="Clock"></div>
+  <i class="far fa-clock icon-background"></i>
+</li>
+<li data-row="2" data-col="6" data-sizex="1" data-sizey="3">
+<div data-id="iframeId2" data-view="Iframe" data-url="https://widget.airnow.gov/aq-dial-widget/?latitude=47.1234539&longitude=-122.4826255"></div>
+</li>
+
+<li data-row="2" data-col="1" data-sizex="5" data-sizey="3">
+ <div data-id="weekly" data-view="Image" data-title="McChord Weekly" data-image="/mcchord_weekly_09may.jpg"></div>
+</li>
+
+</ul>
+</div>
+
+

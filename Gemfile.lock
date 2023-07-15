@@ -11,10 +11,15 @@ GEM
       tzinfo
     eventmachine (1.2.7)
     execjs (2.8.1)
+    faraday (2.7.4)
+      faraday-net_http (>= 2.0, < 3.1)
+      ruby2_keywords (>= 0.0.4)
+    faraday-net_http (3.0.2)
     ffi (1.15.5)
     fugit (1.8.1)
       et-orbi (~> 1, >= 1.2.7)
       raabro (~> 1.4)
+    htmlentities (4.3.4)
     httpclient (2.8.3)
     little-plugger (1.1.4)
     logging (2.3.1)
@@ -32,6 +37,9 @@ GEM
     rack (2.2.6.4)
     rack-protection (2.2.4)
       rack
+    rexml (3.2.5)
+    rss (0.2.9)
+      rexml
     ruby2_keywords (0.0.5)
     rubyntlm (0.6.3)
     rufus-scheduler (3.8.2)
@@ -84,11 +92,13 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  faraday
+  htmlentities
   net-http
   nokogiri (~> 1.14, >= 1.14.3)
+  rss
   sinatra_cyclist
   smashing
-  uri
   viewpoint (~> 1.1, >= 1.1.1)
 
 BUNDLED WITH
