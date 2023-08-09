@@ -1,11 +1,11 @@
 ---
-buzzwords: "data: {\"items\":[{\"label\":\"Enterprise\",\"value\":3},{\"label\":\"Exit
-  strategy\",\"value\":5},{\"label\":\"Paradigm shift\",\"value\":6},{\"label\":\"Streamlininess\",\"value\":1},{\"label\":\"Turn-key\",\"value\":4},{\"label\":\"Pivoting\",\"value\":5},{\"label\":\"Web
-  2.0\",\"value\":2},{\"label\":\"Synergy\",\"value\":2},{\"label\":\"Leverage\",\"value\":2}],\"id\":\"buzzwords\",\"updatedAt\":1689431093294}\n\n"
-convergence: "data: {\"points\":[{\"x\":31,\"y\":49},{\"x\":32,\"y\":40},{\"x\":33,\"y\":42},{\"x\":34,\"y\":20},{\"x\":35,\"y\":24},{\"x\":36,\"y\":6},{\"x\":37,\"y\":35},{\"x\":38,\"y\":47},{\"x\":39,\"y\":5},{\"x\":40,\"y\":32}],\"id\":\"convergence\",\"updatedAt\":1689431093294}\n\n"
-valuation: "data: {\"current\":63,\"last\":53,\"id\":\"valuation\",\"updatedAt\":1689431093294}\n\n"
-karma: "data: {\"current\":58695,\"last\":151126,\"id\":\"karma\",\"updatedAt\":1689431093294}\n\n"
-synergy: "data: {\"value\":78,\"id\":\"synergy\",\"updatedAt\":1689431093294}\n\n"
+buzzwords: "data: {\"items\":[{\"label\":\"Pivoting\",\"value\":10},{\"label\":\"Leverage\",\"value\":7},{\"label\":\"Exit
+  strategy\",\"value\":10},{\"label\":\"Streamlininess\",\"value\":5},{\"label\":\"Web
+  2.0\",\"value\":6},{\"label\":\"Turn-key\",\"value\":11},{\"label\":\"Paradigm shift\",\"value\":13},{\"label\":\"Enterprise\",\"value\":8},{\"label\":\"Synergy\",\"value\":28}],\"id\":\"buzzwords\",\"updatedAt\":1691541684389}\n\n"
+convergence: "data: {\"points\":[{\"x\":339,\"y\":15},{\"x\":340,\"y\":27},{\"x\":341,\"y\":11},{\"x\":342,\"y\":8},{\"x\":343,\"y\":29},{\"x\":344,\"y\":3},{\"x\":345,\"y\":5},{\"x\":346,\"y\":32},{\"x\":347,\"y\":10},{\"x\":348,\"y\":25}],\"id\":\"convergence\",\"updatedAt\":1691541684388}\n\n"
+valuation: "data: {\"current\":16,\"last\":23,\"id\":\"valuation\",\"updatedAt\":1691541684388}\n\n"
+karma: "data: {\"current\":129752,\"last\":33313,\"id\":\"karma\",\"updatedAt\":1691541684388}\n\n"
+synergy: "data: {\"value\":58,\"id\":\"synergy\",\"updatedAt\":1691541684388}\n\n"
 query1: "data: {\"current\":11,\"id\":\"query1\",\"updatedAt\":1681632054806}\n\n"
 news: "data: {\"headlines\":[{\"title\":\"Sudan violence: UK diplomats evacuated from
   Khartoum\",\"description\":\"Hundreds of people have died after fierce fighting
